@@ -10,4 +10,6 @@
 | array_push | 将一个或多个单元压入数组的末尾（入栈) | |
 | array_unshift | 在数组开头插入一个或多个单元 | | 
 | array_pop | 弹出数组最后一个单元（出栈） | |
-| array_values| 返回 input 数组中所有的值并给其建立数字索引| |
+| array_values| 返回数组中所有的值并给其建立数字索引| |
+| array_unique | 移除数组中重复的值 | |
+| array_sum | 对数组中所有值求和 | | 
