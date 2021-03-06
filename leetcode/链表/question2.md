@@ -36,4 +36,88 @@
  *     }
  * }
  */
+ class ListNode {
+    public $val = 0;
+    public $next = null;
+    function __construct($val = 0, $next = null) {
+        $this->val = $val;
+        $this->next = $next;
+    }
+
+    function init($linkList) {
+        $linkList->data=0;//用来记录链表长度
+        $linkList->next=null;
+    }
+}
+class Solution {
+
+    function buildHead($arr) {
+        $head = new ListNode();
+
+        foreach ($arr as $value) {
+            $newNode = new ListNode($value);
+
+            $newNode->next = $head->next;
+
+            $head->next=$newNode;
+        }
+
+        return $head->next;
+    }
+
+    function buildTail($arr) {
+        $head = $rear = new ListNode;
+        foreach ($arr as $value)
+        {
+            $newNode = new ListNode($value);
+
+            //将表尾节点的指针指向新节点
+            $rear->next = $newNode;
+
+            //将当前的新节点定义为表尾终端节点
+            $rear = $newNode;
+        }
+
+        //循环结束后最终的尾节点的指针赋值null
+        $rear->next = null;
+        return $head->next;
+
+    }
+    /**
+     * @param ListNode $l1
+     * @param ListNode $l2
+     * @return ListNode
+     */
+    function addTwoNumbers($l1, $l2) {
+        $count = 0;
+        $result = new ListNode();
+        $cur = $result;
+        while ($l1 != null || $l2 != null) {
+            $l1_val = $l1->val == null ? 0 : $l1->val;
+            $l2_val = $l2->val == null ? 0 : $l2->val;
+
+            $tmp_value = $l1_val + $l2_val + $count;
+
+            if ($tmp_value >= 10) {
+                $sum = $tmp_value % 10;
+                $count = 1;
+            } else {
+                $sum = $tmp_value;
+                $count = 0;
+            }
+
+            $cur->next = new ListNode($sum);
+            $cur = $cur->next;
+
+            $l1 = $l1->next;
+            $l2 = $l2->next;
+        }
+
+        if ($count == 1) {
+            $cur->next = new ListNode($count);
+        }
+
+        return $result->next;
+    }
+}
 ```
