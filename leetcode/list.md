@@ -34,6 +34,7 @@
 |235|二叉搜索树的最近公共祖先|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question235.md)|
 |236|二叉树的最近公共祖先|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question236.md)|
 |257|二叉树的所有路径|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question257.md)|
+|404|左叶子之和|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question404.md)|
 
 
 
