@@ -2,6 +2,38 @@
 |-------|-------------------|--------------------|-----------------|
 |1|两数之和|简单||
 |94|二叉树的中序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question94.md)|
+|95|不同的二叉搜索树Ⅱ|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question95.md)|
+|96|不同的二叉搜索树|中等|[solution]()|
+|98|验证二叉搜索树|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question98.md)|
+|100|相同的树|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question100.md)|
+|101|对称二叉树|简答|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question101.md)|
+|102|二叉树的层序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question102.md)|
+|103|二叉树的锯齿形层序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question103.md)|
+|104|二叉树的最大深度|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question104.md)|
+|105|从前序和中序遍历构造二叉树|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question105.md)|
+|106|从中序和后序遍历构造二叉树|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question106.md)|
+|107|二叉树的层序遍历Ⅱ|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question107.md)|
+|108|将有序数组转换为二叉搜索树|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question108.md)|
+|110|平衡二叉树|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question110.md)|
+|111|二叉树的最小深度|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question111.md)|
+|112|路径总和|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question112.md)|
+|113|路径总和Ⅱ|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question113.md)|
+|114|二叉树展开为链表|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question114.md)|
+|116|填充每个节点的下一个右侧节点指针|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question116.md)|
+|117|填充每个节点的下一个右侧节点指针Ⅱ|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question117.md)|
+|118|||[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question118.md)|
+|119|||[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question119.md)|
+|124|二叉树中的最大路径和|困难|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question124.md)|
+|129|求根结点到叶节点数字之和|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question129.md)|
+|144|二叉树的前序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question144.md)|
+|145|二叉树的后序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question145.md)|
+|199|二叉树的右视图|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question199.md)|
+|222|完全二叉树的节点个数|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question222.md)|
+|226|翻转二叉树|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question226.md)|
+|230|二叉搜索树中的第K小的元素|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question230.md)|
+|235|二叉搜索树的最近公共祖先|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question235.md)|
+|236|二叉树的最近公共祖先|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question236.md)|
+|257|二叉树的所有路径|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question257.md)|
 
 
 
