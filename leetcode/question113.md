@@ -21,7 +21,46 @@
 ```
 
 ```
+<?php
+  class TreeNode {
+      public $val = null;
+      public $left = null;
+      public $right = null;
+      function __construct($val = 0, $left = null, $right = null) {
+          $this->val = $val;
+          $this->left = $left;
+          $this->right = $right;
+      }
+  }
 
+class Solution {
+
+    /**
+     * @param TreeNode $root
+     * @param Integer $targetSum
+     * @return Integer[][]
+     */
+    function pathSum($root, $targetSum) {
+        $res = [];
+        if ($root === null) {
+            return $res;
+        }
+        if ($root->left === null && $root->right === null) {
+            return $targetSum === $root->val ? [[$root->val]] : [];
+        }
+        $left_res = self::pathSum($root->left, $targetSum - $root->val);
+        for ($i = 0; $i < count($left_res); $i++){
+            array_unshift($left_res[$i], $root->val);
+            $res[] = $left_res[$i];
+        }
+        $right_res = self::pathSum($root->right, $targetSum - $root->val);
+        for ($i = 0; $i < count($right_res); $i++) {
+            array_unshift($right_res[$i], $root->val);
+            $res[] = $right_res[$i];
+        }
+        return $res;
+    }
+}
 ```
 
 ```
