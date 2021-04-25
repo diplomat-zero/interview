@@ -1,6 +1,17 @@
 |编号   | 名字                | 难度               | php解法         |
 |-------|-------------------|--------------------|-----------------|
-|1|两数之和|简单||
+|1|两数之和|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question1.md)|
+|2|两数相加|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question2.md)|
+|3|无重复字符的最长字串|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question3.md)|
+|4|寻找两个正序数组的中位数|困难|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question4.md)|
+|5|最长回文字串|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question5.md)|
+|6|Z字形变换|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question6.md)|
+|7|整数反转|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question7.md)|
+|8|字符串转换整数|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question8.md)|
+|9|回文数|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question9.md)|
+|11|盛最多水的容器|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question11.md)|
+|12|整数转罗马数字|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question12.md)|
+|13|罗马数字转整数|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question13.md)|
 |94|二叉树的中序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question94.md)|
 |95|不同的二叉搜索树Ⅱ|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question95.md)|
 |96|不同的二叉搜索树|中等|[solution]()|
