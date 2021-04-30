@@ -15,14 +15,17 @@
 |14|最长公共前缀|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question14.md)|
 |15|三数之和|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question15.md)|
 |16|最接近的三数之和|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question16.md)|
+|17|电话号码的字母组合|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question17.md)|
 |19|删除链表的倒数第N个节点|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question19.md)|
 |20|有效的括号|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question20.md)|
 |21|合并两个有序链表|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question21.md)|
+|23|合并K个升序链表|困难|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question23.md)|
 |24|两两交换链表中的节点|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question24.md)|
 |26|删除有序数组中的重复项|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question26.md)|
 |27|移除元素|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question27.md)|
 |28|实现strStr()|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question28.md)|
 |33|搜索旋转排序数组|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question33.md)|
+|34|在排序数组中查找元素的第一个和最后一个位置|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question34.md)|
 |35|搜索插入位置|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question35.md)|
 |48|旋转图像|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question48.md)|
 |49|字母异位词分组|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question49.md)|
