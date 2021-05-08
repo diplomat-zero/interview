@@ -33,6 +33,8 @@
 |40|组合总和Ⅱ|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question40.md)|
 |41|缺失的第一个正数|困难|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question41.md)|
 |42|接雨水|困难|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question42.md)|
+|43|字符串相乘|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question43.md)|
+|46|全排列|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question46.md)|
 |48|旋转图像|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question48.md)|
 |49|字母异位词分组|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question49.md)|
 |94|二叉树的中序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question94.md)|
@@ -69,4 +71,5 @@
 |236|二叉树的最近公共祖先|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question236.md)|
 |257|二叉树的所有路径|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question257.md)|
 |404|左叶子之和|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question404.md)|
+|415|字符串相加|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question415.md)|
 |437|路径总和Ⅲ|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question437.md)|
