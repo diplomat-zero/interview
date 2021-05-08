@@ -29,7 +29,10 @@
 |35|搜索插入位置|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question35.md)|
 |36|有效的数独|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question36.md)|
 |38|外观数列|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question38.md)|
-|39|组合总数|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question39.md)|
+|39|组合总和|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question39.md)|
+|40|组合总和Ⅱ|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question40.md)|
+|41|缺失的第一个正数|困难|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question41.md)|
+|42|接雨水|困难|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question42.md)|
 |48|旋转图像|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question48.md)|
 |49|字母异位词分组|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question49.md)|
 |94|二叉树的中序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question94.md)|
