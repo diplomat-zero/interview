@@ -35,6 +35,7 @@
 |42|接雨水|困难|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question42.md)|
 |43|字符串相乘|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question43.md)|
 |46|全排列|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question46.md)|
+|47|全排列Ⅱ|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question47.md)|
 |48|旋转图像|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question48.md)|
 |49|字母异位词分组|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question49.md)|
 |94|二叉树的中序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question94.md)|
