@@ -27,4 +27,60 @@
 ```
 
 ```
+<?php
+class Solution {
+
+    /**
+     * @param Integer $n
+     * @param Integer $k
+     * @return String
+     */
+    function getPermutation($n, $k) {
+        $count = self::jie($n - 1);
+        for ($i = 1; $i <= $n; $i++) {
+            $num[$i] = $i;
+            $tmp_count_left = $count * ($i - 1);
+            $tmp_count_right = $count * $i;
+            if ($tmp_count_left < $k && $k <= $tmp_count_right) {
+                $find = $i;
+                $left_k = $k - $tmp_count_left;
+            }
+        }
+        $result = '';
+        unset($num[$find]);
+        $j = 0;
+        self::dfs(array_values($num), '', $j, $left_k, $result);
+        return $find.$result;
+    }
+
+    function dfs($num, $trace, &$j, $k, &$result) {
+        if (strlen($trace) == count($num)) {
+            $j++;
+            if ($j == $k) {
+                $result = $trace;
+            }
+        }
+
+        for ($i = 0; $i < count($num); $i++) {
+            if (strlen($trace) <= count($num)) {
+                $find = (string)$num[$i];
+                if (strpos($trace, $find) === false) {
+                    $trace .= $num[$i];
+                    self::dfs($num, $trace, $j, $k, $result);
+                    $trace = substr($trace, 0, strlen($trace) - 1);
+                }
+            } 
+        }
+    }
+
+    function jie($n) {
+        $dp[0] = 1;
+        $dp[1] = 1;
+        $dp[2] = 2;
+        for ($i = 3; $i <= $n; $i++) {
+            $dp[$i] = $i * $dp[$i - 1];
+        }
+        return $dp[$n];
+    }
+}
 ```
