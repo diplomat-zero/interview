@@ -25,6 +25,57 @@
 1 <= n <= 9
 1 <= k <= n!
 ```
+```
+<?php
+class Solution {
+
+    /**
+     * @param Integer $n
+     * @param Integer $k
+     * @return String
+     */
+    function getPermutation($n, $k) {
+        for ($i = 1; $i <= $n; $i++) {
+            $num[$i] = $i;
+        }
+        $result = '';
+        self::digui($num, $k, $result);
+        return $result;
+    }
+
+    function digui($num, $k, &$result) {
+        $num = array_values($num);
+        $len = count($num);
+        if ($len == 1) {
+            $key = array_pop($num);
+            $result = $result . $key;
+            return $result;
+        }
+        $count = self::jie($len - 1);
+        for ($i = 0; $i < $len; $i++) {
+            $tmp_count_left = $count * $i;
+            $tmp_count_right = $count * ($i + 1);
+            if ($tmp_count_left < $k && $k <= $tmp_count_right) {
+                $find = $i;
+                $left_k = $k - $tmp_count_left;
+            }
+        }
+        $result .= $num[$find];
+        unset($num[$find]);
+        self::digui($num, $left_k, $result);
+    }
+
+    function jie($n) {
+        $dp[0] = 1;
+        $dp[1] = 1;
+        $dp[2] = 2;
+        for ($i = 3; $i <= $n; $i++) {
+            $dp[$i] = $i * $dp[$i - 1];
+        }
+        return $dp[$n];
+    }
+}
+```
 
 ```
 <?php
