@@ -68,7 +68,9 @@
 |117|填充每个节点的下一个右侧节点指针Ⅱ|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question117.md)|
 |118|||[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question118.md)|
 |119|||[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question119.md)|
+|120|三角形最小路径和|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question120.md)|
 |124|二叉树中的最大路径和|困难|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question124.md)|
+|125|验证回文串|简答|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question125.md)|
 |129|求根结点到叶节点数字之和|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question129.md)|
 |144|二叉树的前序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question144.md)|
 |145|二叉树的后序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question145.md)|
