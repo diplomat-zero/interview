@@ -73,6 +73,11 @@
 |125|验证回文串|简答|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question125.md)|
 |128|最长连续序列|困难|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question128.md)|
 |129|求根结点到叶节点数字之和|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question129.md)|
+|130|被围绕的区域|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question130.md)|
+|134|加油站|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question134.md)|
+|137|只出现一次的数字II|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question137.md)|
+|141|环形链表|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question141.md)|
+|142|环形链表II|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question142.md)|
 |144|二叉树的前序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question144.md)|
 |145|二叉树的后序遍历|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question145.md)|
 |199|二叉树的右视图|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question199.md)|
