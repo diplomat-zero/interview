@@ -83,6 +83,8 @@
 |162|寻找峰值|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question162.md)|
 |199|二叉树的右视图|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question199.md)|
 |200|岛屿数量|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question200.md)|
+|202|快乐数|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question202.md)|
+|203|移除链表元素|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question203.md)|
 |206|反转链表|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question206.md)|
 |222|完全二叉树的节点个数|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question222.md)|
 |226|翻转二叉树|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/question226.md)|
