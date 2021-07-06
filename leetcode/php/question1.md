@@ -32,6 +32,29 @@ class Solution {
      * @return Integer[]
      */
     function twoSum($nums, $target) {
+        $map = [];
+        for ($i = 0; $i < count($nums); $i++) {
+            $find = $target - $nums[$i];
+            if (isset($map[$find])) {
+                 return [$map[$find], $i];
+            } else {
+                $map[$nums[$i]] = $i;
+            }
+        }
+        return [];
+    }
+}
+```
+
+```
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @param Integer $target
+     * @return Integer[]
+     */
+    function twoSum($nums, $target) {
         $ret = $result = [];
 
         $pre = $nums;
