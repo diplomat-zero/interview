@@ -58,6 +58,44 @@ class Solution {
      * @return Integer
      */
     function romanToInt($s) {
+        $sum = 0;
+
+        $mapping = [
+            'I'  => 1,
+            'IV' => 4,
+            'V'  => 5,
+            'IX' => 9,
+            'X'  => 10,
+            'XL' => 40,
+            'L'  => 50,
+            'XC' => 90,
+            'C'  => 100,
+            'CD' => 400,
+            'D'  => 500,
+            'CM' => 900,
+            'M'  => 1000,
+        ];
+        for ($i = 0; $i < strlen($s); $i++) {
+            if ($mapping[$s[$i]] < $mapping[$s[$i + 1]]) {
+                $sum += $mapping[$s[$i].$s[$i + 1]];
+                $i++;
+            } else {
+                $sum += $mapping[$s[$i]];
+            }
+        }
+        return $sum;
+    }
+}
+```
+
+```
+class Solution {
+
+    /**
+     * @param String $s
+     * @return Integer
+     */
+    function romanToInt($s) {
         $tmp = '';
         $sum = 0;
         for ($i = 0; $i < strlen($s); $i++) {
@@ -110,33 +148,4 @@ class Solution {
         return $sum;
     }
 }
-```
-
-```
-$sum = 0;
-
-        $mapping = [
-            'I'  => 1,
-            'IV' => 4,
-            'V'  => 5,
-            'IX' => 9,
-            'X'  => 10,
-            'XL' => 40,
-            'L'  => 50,
-            'XC' => 90,
-            'C'  => 100,
-            'CD' => 400,
-            'D'  => 500,
-            'CM' => 900,
-            'M'  => 1000,
-        ];
-        for ($i = 0; $i < strlen($s); $i++) {
-            if ($mapping[$s[$i]] < $mapping[$s[$i + 1]]) {
-                $sum += $mapping[$s[$i].$s[$i + 1]];
-                $i++;
-            } else {
-                $sum += $mapping[$s[$i]];
-            }
-        }
-        return $sum;
 ```
