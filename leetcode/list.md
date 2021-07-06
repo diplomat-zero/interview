@@ -1,6 +1,6 @@
 |编号   | 名字                | 难度               | php解法         |go解法            |java解法        |
 |-------|-------------------|--------------------|-----------------|-----------------|----------------|
-|1|两数之和|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1.md)|
+|1|两数之和|简单|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1.md)|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1.md)|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1.md)
 |2|两数相加|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question2.md)|
 |3|无重复字符的最长字串|中等|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question3.md)|
 |4|寻找两个正序数组的中位数|困难|[solution](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question4.md)|
