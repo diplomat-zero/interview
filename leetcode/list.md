@@ -17,7 +17,7 @@
 |16|最接近的三数之和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question16.md)|
 |17|电话号码的字母组合|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question17.md)|
 |19|删除链表的倒数第N个节点|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question19.md)|
-|20|有效的括号|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question20.md)|
+|20|有效的括号|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question20.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question20.md)|
 |21|合并两个有序链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question21.md)|
 |23|合并K个升序链表|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question23.md)|
 |24|两两交换链表中的节点|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question24.md)|
