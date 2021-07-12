@@ -45,9 +45,9 @@
 |79|单词搜索|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question79.md)|
 |86|分隔链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question86.md)|
 |90|子集Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question90.md)|
-|94|二叉树的中序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question94.md)|
+|94|二叉树的中序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question94.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question94.md)|
 |95|不同的二叉搜索树Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question95.md)|
-|96|不同的二叉搜索树|中等|[php]()|
+|96|不同的二叉搜索树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question96.md)|
 |98|验证二叉搜索树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question98.md)|
 |100|相同的树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question100.md)|
 |101|对称二叉树|简答|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question101.md)|
@@ -87,6 +87,7 @@
 |203|移除链表元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question203.md)|
 |205|同构字符串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question205.md)|
 |206|反转链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question206.md)|
+|217|存在重复元素|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question217.md)|
 |222|完全二叉树的节点个数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question222.md)|
 |226|翻转二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question226.md)|
 |230|二叉搜索树中的第K小的元素|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question230.md)|
