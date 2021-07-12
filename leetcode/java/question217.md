@@ -19,6 +19,32 @@
 ```
 class Solution {
     public boolean containsDuplicate(int[] nums) {
+        Arrays.sort(nums);
+        for(int i = nums.length - 1; i > 0; i--){
+            if(nums[i] == nums[i - 1]) return true;
+        }
+        return false;
+    }
+}
+```
+
+```
+class Solution {
+    public boolean containsDuplicate(int[] nums) {
+        Set<Integer> set = new HashSet<Integer>();
+        for (int x : nums) {
+            if (!set.add(x)) {
+                return true;
+            }
+        }
+        return false;
+    }
+}
+```
+
+```
+class Solution {
+    public boolean containsDuplicate(int[] nums) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int num : nums) {
             if (map.containsKey(num)) {

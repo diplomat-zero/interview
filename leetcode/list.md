@@ -38,6 +38,7 @@
 |47|全排列Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question47.md)|
 |48|旋转图像|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question48.md)|
 |49|字母异位词分组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question49.md)|
+|53|最大子序和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question53.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question53.md)|
 |60|排列序列|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question60.md)|
 |64|最小路径和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question64.md)|
 |77|组合|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question77.md)|
@@ -87,7 +88,7 @@
 |203|移除链表元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question203.md)|
 |205|同构字符串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question205.md)|
 |206|反转链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question206.md)|
-|217|存在重复元素|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question217.md)|
+|217|存在重复元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question217.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question217.md)|
 |222|完全二叉树的节点个数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question222.md)|
 |226|翻转二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question226.md)|
 |230|二叉搜索树中的第K小的元素|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question230.md)|
