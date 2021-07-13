@@ -26,7 +26,7 @@
 |28|实现strStr()|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question28.md)|
 |33|搜索旋转排序数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question33.md)|
 |34|在排序数组中查找元素的第一个和最后一个位置|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question34.md)|
-|35|搜索插入位置|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question35.md)|
+|35|搜索插入位置|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question35.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question35.md)|
 |36|有效的数独|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question36.md)|
 |38|外观数列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question38.md)|
 |39|组合总和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question39.md)|
@@ -45,6 +45,7 @@
 |78|子集|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question78.md)|
 |79|单词搜索|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question79.md)|
 |86|分隔链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question86.md)|
+|88|合并两个有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question88.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question88.md)|
 |90|子集Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question90.md)|
 |94|二叉树的中序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question94.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question94.md)|
 |95|不同的二叉搜索树Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question95.md)|
@@ -95,6 +96,8 @@
 |235|二叉搜索树的最近公共祖先|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question235.md)|
 |236|二叉树的最近公共祖先|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question236.md)|
 |257|二叉树的所有路径|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question257.md)|
+|278|第一个错误的版本|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question278.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question278.md)|
 |404|左叶子之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question404.md)|
 |415|字符串相加|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question415.md)|
 |437|路径总和Ⅲ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question437.md)|
+|704|二分查找|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question704.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question704.md)|
