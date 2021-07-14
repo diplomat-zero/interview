@@ -53,3 +53,31 @@ class Solution {
     }
 }
 ```
+
+```
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @param Integer $k
+     * @return NULL
+     */
+    function rotate(&$nums, $k) {
+        $len = count($nums);
+        $k %= $len;
+        $this->reserve($nums, 0, $len - 1);
+        $this->reserve($nums, 0, $k - 1);
+        $this->reserve($nums, $k, $len - 1);
+    }
+
+    function reserve(&$nums, $left, $right) {
+        while ($left < $right) {
+            $tmp = $nums[$left];
+            $nums[$left] = $nums[$right];
+            $nums[$right] = $tmp;
+            $left++;
+            $right--;
+        }
+    }
+}
+```
