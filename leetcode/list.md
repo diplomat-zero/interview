@@ -68,7 +68,7 @@
 |114|二叉树展开为链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question114.md)|
 |116|填充每个节点的下一个右侧节点指针|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question116.md)|
 |117|填充每个节点的下一个右侧节点指针Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question117.md)|
-|118|杨辉三角|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question118.md)|
+|118|杨辉三角|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question118.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question118.md)|
 |119|杨辉三角 II|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question119.md)|
 |120|三角形最小路径和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question120.md)|
 |121|买卖股票的最佳时机|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question121.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question121.md)|
@@ -103,5 +103,6 @@
 |404|左叶子之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question404.md)|
 |415|字符串相加|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question415.md)|
 |437|路径总和Ⅲ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question437.md)|
+|566|重塑矩阵|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question566.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question566.md)|
 |704|二分查找|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question704.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question704.md)|
 |977|有序数组的平方|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question977.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question977.md)|
