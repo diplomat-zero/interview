@@ -52,7 +52,7 @@ class Solution {
         foreach ($arr as $value) {
             $newNode = new ListNode($value);
             $newNode->next = $head->next;
-            $head->next=$newNode;
+            $head->next = $newNode;
         }
         return $head->next;
     }
