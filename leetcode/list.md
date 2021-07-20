@@ -79,7 +79,7 @@
 |130|被围绕的区域|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question130.md)|
 |134|加油站|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question134.md)|
 |137|只出现一次的数字II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question137.md)|
-|141|环形链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question141.md)|
+|141|环形链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question141.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question141.md)|
 |142|环形链表II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question142.md)|
 |144|二叉树的前序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question144.md)|
 |145|二叉树的后序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question145.md)|
@@ -88,7 +88,7 @@
 |199|二叉树的右视图|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question199.md)|
 |200|岛屿数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question200.md)|
 |202|快乐数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question202.md)|
-|203|移除链表元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question203.md)|
+|203|移除链表元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question203.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question203.md)|
 |205|同构字符串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question205.md)|
 |206|反转链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question206.md)|
 |217|存在重复元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question217.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question217.md)|
@@ -100,6 +100,8 @@
 |257|二叉树的所有路径|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question257.md)|
 |278|第一个错误的版本|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question278.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question278.md)|
 |350|两个数组的交集 II|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question350.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question350.md)|
+|383|赎金信|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question383.md)|
+|387|字符串中的第一个唯一字符|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question387.md)|
 |404|左叶子之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question404.md)|
 |415|字符串相加|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question415.md)|
 |437|路径总和Ⅲ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question437.md)|
