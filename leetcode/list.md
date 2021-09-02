@@ -1,7 +1,7 @@
 |编号   | 名字                | 难度               | 解法      | | ||
 |-------|-------------------|--------------------|-----------------|-|-|-|
 |1|两数之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1.md)
-|2|两数相加|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question2.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question2.md)|
+|2|两数相加|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question2.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question2.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question2.md)|
 |3|无重复字符的最长字串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question3.md)|
 |4|寻找两个正序数组的中位数|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question4.md)|
 |5|最长回文字串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question5.md)|
@@ -49,7 +49,7 @@
 |86|分隔链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question86.md)|
 |88|合并两个有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question88.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question88.md)|
 |90|子集Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question90.md)|
-|94|二叉树的中序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question94.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question94.md)|
+|94|二叉树的中序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question94.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question94.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question94.md)|
 |95|不同的二叉搜索树Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question95.md)|
 |96|不同的二叉搜索树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question96.md)|
 |98|验证二叉搜索树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question98.md)|
