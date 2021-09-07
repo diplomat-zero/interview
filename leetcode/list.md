@@ -53,7 +53,7 @@
 |95|不同的二叉搜索树Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question95.md)|
 |96|不同的二叉搜索树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question96.md)|
 |98|验证二叉搜索树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question98.md)|
-|100|相同的树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question100.md)|
+|100|相同的树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question100.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question100.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question100.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question100.md)|
 |101|对称二叉树|简答|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question101.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question101.md)|
 |102|二叉树的层序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question102.md)|
 |103|二叉树的锯齿形层序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question103.md)|
