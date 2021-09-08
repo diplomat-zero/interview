@@ -83,7 +83,7 @@
 |137|只出现一次的数字II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question137.md)|
 |141|环形链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question141.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question141.md)|
 |142|环形链表II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question142.md)|
-|144|二叉树的前序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question144.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question144.md)|
+|144|二叉树的前序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question144.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question144.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question144.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question144.md)|
 |145|二叉树的后序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question145.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question145.md)|
 |162|寻找峰值|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question162.md)|
 |167|两数之和 II - 输入有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question167.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question167.md)|
