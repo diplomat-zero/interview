@@ -10,6 +10,9 @@ bin/kafka-topics.sh --list --zookeeper localhost:2181
  
 2、查询topic内容：
 bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic topicName --from-beginning
+
+3.查看topic下partition数量：
+bin/kafka-topics.sh --describe --zookeeper localhost:2181 --topic prometheusdata
 ```
 
 ```
