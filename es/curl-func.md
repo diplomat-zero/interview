@@ -13,4 +13,7 @@ curl localhost:9200/prometheus/_mapping?pretty
 
 查看全部数据
 curl 'localhost:9200/prometheus/_search' -d '{"query": {"match_all": {}}}' -H 'Content-Type:application/json'
+
+删除全部数据(不删除索引结构)
+curl 'localhost:9200/prometheus/_delete_by_query' -d '{"query": {"match_all": {}}}' -H 'Content-Type:application/json'
 ```
