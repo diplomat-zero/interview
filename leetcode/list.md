@@ -117,3 +117,4 @@
 |704|二分查找|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question704.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question704.md)|
 |876|链表的中间结点|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question876.md)|
 |977|有序数组的平方|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question977.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question977.md)|
+|1022|从根到叶的二进制数之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1022.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1022.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1022.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1022.md)|
