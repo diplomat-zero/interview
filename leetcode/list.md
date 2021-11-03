@@ -34,7 +34,7 @@
 |41|缺失的第一个正数|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question41.md)|
 |42|接雨水|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question42.md)|
 |43|字符串相乘|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question43.md)|
-|46|全排列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question46.md)|
+|46|全排列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question46.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question46.md)||
 |47|全排列Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question47.md)|
 |48|旋转图像|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question48.md)|
 |49|字母异位词分组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question49.md)|
