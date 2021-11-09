@@ -143,3 +143,9 @@
 |剑指offer32-2|从上到下打印二叉树 II|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer32-2.md)||
 |剑指offer32-3|从上到下打印二叉树 III|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer32-3.md)||
 |剑指offer42|连续子数组的最大和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer42.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer42.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer42.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer42.md)|
+|剑指offer2-2|二进制加法|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-2.md)||
+|剑指offer2-3|前n个数字二进制中1的个数|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-3.md)||
+|剑指offer2-6|排序数组中两个数字之和|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-6.md)||
+|剑指offer2-7|数组中和为0的三个数|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-7.md)||
+|剑指offer2-8|和大于等于target的最短子数组|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-8.md)||
+|剑指offer2-9|乘积小于K的子数组|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-9.md)||
