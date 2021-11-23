@@ -149,3 +149,10 @@
 |剑指offer2-7|数组中和为0的三个数|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-7.md)||
 |剑指offer2-8|和大于等于target的最短子数组|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-8.md)||
 |剑指offer2-9|乘积小于K的子数组|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-9.md)||
+|剑指offer2-10|和为k的子数组|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-10.md)||
+|剑指offer2-18|有效的回文|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-18.md)||
+|剑指offer2-44|二叉树每层的最大值|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-44.md)||
+|剑指offer2-45|二叉树最底层最左边的值|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-45.md)||
+|剑指offer2-46|二叉树的右侧视图|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-46.md)||
+|剑指offer2-49|从根节点到叶节点的路径数字之和|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-49.md)||
+|剑指offer2-50|向下的路径节点之和|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-50.md)||
