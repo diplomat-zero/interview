@@ -158,3 +158,5 @@
 |剑指offer2-50|向下的路径节点之和|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-50.md)||
 |剑指offer2-52|展平二叉搜索树|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-52.md)||
 |剑指offer2-53|二叉搜索树中的中序后继|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-53.md)||
+|剑指offer2-54|所有大于等于节点的值之和|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-54.md)||
+|剑指offer2-56|二叉搜索树中两个节点之和|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-56.md)||
