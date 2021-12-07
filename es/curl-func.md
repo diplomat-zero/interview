@@ -26,3 +26,5 @@ curl 'localhost:9200/prometheus/_update_by_query' -d '{"query": {"bool": {"must"
 es query
 curl 'localhost:9200/capacity/_search' -d '{"query":{"bool":{"must":[{"term":{"metric":"process_open_fds"}},{"term":{"time":"1632280868"}}]}}}' -H 'Content-Type:application/json'
 ```
+
+curl 'localhost:9200/capacity/_search' -d '{"query":{"bool":{"must":[{"range":{"time":{"gte":1638430200,"lte":1638435600}}}]}}}' -H 'Content-Type:application/json'
