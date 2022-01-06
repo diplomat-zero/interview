@@ -13,11 +13,11 @@
 |12|整数转罗马数字|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question12.md)|
 |13|罗马数字转整数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question13.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question13.md)|
 |14|最长公共前缀|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question14.md)|
-|15|三数之和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question15.md)|
+|15|三数之和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question15.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question15.md)|
 |16|最接近的三数之和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question16.md)|
 |17|电话号码的字母组合|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question17.md)|
 |19|删除链表的倒数第N个节点|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question19.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question19.md)|
-|20|有效的括号|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question20.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question20.md)|
+|20|有效的括号|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question20.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question20.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question20.md)|
 |21|合并两个有序链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question21.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question21.md)|
 |23|合并K个升序链表|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question23.md)|
 |24|两两交换链表中的节点|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question24.md)|
@@ -42,6 +42,7 @@
 |54|螺旋矩阵|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question54.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question54.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question54.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question54.md)|
 |60|排列序列|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question60.md)|
 |64|最小路径和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question64.md)|
+|70|爬楼梯|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question70.md)|
 |73|矩阵置零|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question73.md)|
 |77|组合|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question77.md)|
 |78|子集|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question78.md)|
@@ -112,6 +113,7 @@
 |415|字符串相加|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question415.md)|
 |437|路径总和Ⅲ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question437.md)|
 |501|二叉搜索树中的众数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question501.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question501.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question501.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question501.md)|
+|509|斐波那契数|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question509.md)||
 |557|反转字符串中的单词 III|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question557.md)
 |566|重塑矩阵|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question566.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question566.md)|
 |617|合并二叉树|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question617.md)|
