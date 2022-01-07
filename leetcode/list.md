@@ -38,7 +38,7 @@
 |47|全排列Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question47.md)|
 |48|旋转图像|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question48.md)|
 |49|字母异位词分组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question49.md)|
-|53|最大子序和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question53.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question53.md)|
+|53|最大子序和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question53.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question53.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question53.md)|
 |54|螺旋矩阵|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question54.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question54.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question54.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question54.md)|
 |60|排列序列|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question60.md)|
 |64|最小路径和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question64.md)|
@@ -121,7 +121,7 @@
 |876|链表的中间结点|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question876.md)|
 |977|有序数组的平方|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question977.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question977.md)|
 |1022|从根到叶的二进制数之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1022.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1022.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1022.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1022.md)|
-|1512|好数对的数目|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1512.md)|[go]()|[java]()|[python]()|
+|1512|好数对的数目|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1512.md)||||
 |2011|执行操作后的变量值|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question2011.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question2011.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question2011.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question2011.md)|
 |2016|增量元素之间的最大差值|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question2016.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question2016.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question2016.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question2016.md)|
 |剑指offer03|数组中重复的数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer3.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer3.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer3.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer3.md)|
