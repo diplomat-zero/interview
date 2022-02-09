@@ -153,7 +153,10 @@
 |剑指offer46|把数字翻译成字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer46.md)||||
 |剑指offer48|最长不含重复字符的子字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer48.md)||||
 |剑指offer55-1|二叉树的深度|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer55-1.md)|
+|剑指offer64|求1+2+…+n|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer64.md)||||
+|剑指offer66|构建乘积数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer66.md)||||
 |剑指offer68-1|二叉搜索树的最近公共祖先|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer68-1.md)|
+|剑指offer68-2|二叉树的最近公共祖先|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer68-2.md)|
 |剑指offer2-2|二进制加法|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-2.md)||
 |剑指offer2-3|前n个数字二进制中1的个数|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-3.md)||
 |剑指offer2-6|排序数组中两个数字之和|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-6.md)||
