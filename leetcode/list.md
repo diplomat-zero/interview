@@ -153,6 +153,8 @@
 |剑指offer46|把数字翻译成字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer46.md)||||
 |剑指offer48|最长不含重复字符的子字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer48.md)||||
 |剑指offer55-1|二叉树的深度|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer55-1.md)|
+|剑指offer57|和为s的两个数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer57.md)||||
+|剑指offer61|扑克牌中的顺子|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer61.md)||||
 |剑指offer62|圆圈中最后剩下的数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer62.md)||||
 |剑指offer63|股票的最大利润|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer63.md)||||
 |剑指offer64|求1+2+…+n|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer64.md)||||
