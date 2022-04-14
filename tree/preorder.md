@@ -7,7 +7,7 @@ php
 ```
 
 ```
-function preOrder($root)
+    function preOrder($root)
     {
         $result = [];
         $stack[] = $root;

@@ -7,7 +7,7 @@ php
 ```
 
 ```
-function postorder($root)
+    function postorder($root)
     {
         $result = [];
         $stack[] = $root;
