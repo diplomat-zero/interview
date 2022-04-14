@@ -26,10 +26,10 @@ class Solution {
             $node = array_shift($tree_list);
             $result[$node[1]][] = $node[0]->val;
             if ($node[0]->left != null) {
-                array_push($tree_list, [$node[0]->left, $node[1] + 1]);
+                $tree_list[] = [$node[0]->left, $node[1] + 1];
             }
             if ($node[0]->right != null) {
-                array_push($tree_list, [$node[0]->right, $node[1] + 1]);
+                $tree_list[] = [$node[0]->right, $node[1] + 1];
             }
         }
 

@@ -20,8 +20,7 @@ class Solution {
             return $result;
         }
 
-        $tree_list = [];
-        array_push($tree_list, [$root, 0]);
+        $tree_list = [$root, 0];
         while(!empty($tree_list)) {
             $node = array_shift($tree_list);
             if ($node[1] % 2 == 0) {
@@ -34,10 +33,10 @@ class Solution {
                 }
             }
             if ($node[0]->left != null) {
-                array_push($tree_list, [$node[0]->left, $node[1] + 1]);
+                $tree_list[] = [$node[0]->left, $node[1] + 1];
             }
             if ($node[0]->right != null) {
-                array_push($tree_list, [$node[0]->right, $node[1] + 1]);
+                $tree_list[] = [$node[0]->right, $node[1] + 1];
             }
         }
 
