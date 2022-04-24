@@ -77,11 +77,12 @@
 |119|杨辉三角 II|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question119.md)|
 |120|三角形最小路径和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question120.md)|
 |121|买卖股票的最佳时机|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question121.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question121.md)|
-|124|二叉树中的最大路径和|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question124.md)|
-|125|验证回文串|简答|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question125.md)|
-|128|最长连续序列|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question128.md)|
-|129|求根结点到叶节点数字之和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question129.md)|
-|130|被围绕的区域|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question130.md)|
+|124|二叉树中的最大路径和|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question124.md)||||
+|125|验证回文串|简答|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question125.md)||||
+|128|最长连续序列|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question128.md)||||
+|129|求根结点到叶节点数字之和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question129.md)||||
+|130|被围绕的区域|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question130.md)||||
+|131|分割回文串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question131.md)||||
 |134|加油站|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question134.md)||||
 |135|分发糖果|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question135.md)||||
 |137|只出现一次的数字II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question137.md)|
@@ -93,6 +94,7 @@
 |154|寻找旋转排序数组中的最小值 II|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question154.md)||||
 |162|寻找峰值|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question162.md)||||
 |167|两数之和 II - 输入有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question167.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question167.md)|
+|169|多数元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question169.md)||||
 |189|旋转数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question189.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question189.md)|
 |199|二叉树的右视图|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question199.md)|
 |200|岛屿数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question200.md)|
@@ -124,7 +126,8 @@
 |617|合并二叉树|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question617.md)|
 |704|二分查找|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question704.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question704.md)|
 |746|使用最小花费爬楼梯|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question746.md)||||
-|876|链表的中间结点|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question876.md)|
+|876|链表的中间结点|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question876.md)||||
+|887|鸡蛋掉落|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question887.md)||||
 |977|有序数组的平方|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question977.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question977.md)|
 |1022|从根到叶的二进制数之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1022.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1022.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1022.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1022.md)|
 |1512|好数对的数目|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1512.md)||||
