@@ -60,9 +60,30 @@ class Solution {
         return $right;
     }
 }
-$nums = [3,2,1,5,6,4];
-$k = 2;
-$so = new Solution();
-$ret = $so->findKthLargest($nums, $k);
-print_r($ret);
+```
+
+```
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @param Integer $k
+     * @return Integer
+     */
+    function findKthLargest($nums, $k) {
+        $head = new SplMinHeap();
+        for ($i = 0; $i < count($nums); $i++) {
+            if ($head->count() < $k) {
+                $head->insert($nums[$i]);
+            } else {
+                if ($head->top() < $nums[$i]) {
+                    $head->extract();
+                    $head->insert($nums[$i]);
+                }
+            }
+        }
+
+        return $head->top();
+    }
+}
 ```

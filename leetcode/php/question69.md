@@ -43,3 +43,31 @@ class Solution {
     }
 }
 ```
+
+```
+class Solution {
+
+    /**
+     * @param Integer $x
+     * @return Integer
+     */
+    function mySqrt($x) {
+        if ($x <= 1) {
+            return $x;
+        }
+        $left = 1;
+        $right = floor($x / 2) + 1;
+
+        while ($left < $right) {
+            $mid = floor(($right - $left + 1) / 2 + $left);
+            if ($mid > $x / $mid) {
+                $right = $mid - 1;
+            } else {
+                $left = $mid;
+            }
+        }
+
+        return $left;
+    }
+}
+```

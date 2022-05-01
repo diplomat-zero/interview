@@ -12,6 +12,46 @@
 ```
 
 ```
+/**
+ * Definition for a singly-linked list.
+ * class ListNode {
+ *     public $val = 0;
+ *     public $next = null;
+ *     function __construct($val = 0, $next = null) {
+ *         $this->val = $val;
+ *         $this->next = $next;
+ *     }
+ * }
+ */
+class Solution {
+
+    /**
+     * @param ListNode $head
+     * @return ListNode
+     */
+    function deleteDuplicates($head) {
+        $ret_head = $ret_tail = new ListNode(0);
+        while ($head != null) {
+            if ($head->val == $head->next->val) {
+                $tmp = $head->val;
+                while ($head != null && $head->val == $tmp) {
+                    $head = $head->next;
+                }
+            } else {
+                $new_node = new ListNode($head->val);
+                $ret_tail->next = $new_node;
+                $ret_tail = $new_node;
+                $head = $head->next;
+            }
+        }
+
+        $ret_tail->next = null;
+        return $ret_head->next;
+    }
+}
+```
+
+```
 class ListNode {
     public $val;
 
