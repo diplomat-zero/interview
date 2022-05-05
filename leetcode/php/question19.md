@@ -24,6 +24,51 @@
 ```
 
 ```
+/**
+ * Definition for a singly-linked list.
+ * class ListNode {
+ *     public $val = 0;
+ *     public $next = null;
+ *     function __construct($val = 0, $next = null) {
+ *         $this->val = $val;
+ *         $this->next = $next;
+ *     }
+ * }
+ */
+class Solution {
+
+    /**
+     * @param ListNode $head
+     * @param Integer $n
+     * @return ListNode
+     */
+    function removeNthFromEnd($head, $n) {
+        $result = new ListNode(0);
+        $result->next = $head;
+
+        $find = $this->findK($result, $n + 1);
+        $find->next = $find->next->next;
+        return $result->next;
+    }
+
+    function findK($head, $n) {
+        $fast = $head;
+        for ($i = 0; $i < $n; $i++) {
+            $fast = $fast->next;
+        }
+
+        $slow = $head;
+        while ($fast != null) {
+            $fast = $fast->next;
+            $slow = $slow->next;
+        }
+
+        return $slow;
+    }
+}
+```
+
+```
 class ListNode {
     public $val = 0;
 

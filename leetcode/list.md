@@ -53,7 +53,8 @@
 |83|删除排序链表中的重复元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question83.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question83.md)|
 |86|分隔链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question86.md)|
 |88|合并两个有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question88.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question88.md)|
-|90|子集Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question90.md)|
+|90|子集Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question90.md)||||
+|92|反转链表 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question92.md)||||
 |94|二叉树的中序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question94.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question94.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question94.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question94.md)|
 |95|不同的二叉搜索树Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question95.md)|
 |96|不同的二叉搜索树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question96.md)|
@@ -96,6 +97,7 @@
 |153|寻找旋转排序数组中的最小值|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question153.md)||||
 |154|寻找旋转排序数组中的最小值 II|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question154.md)||||
 |162|寻找峰值|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question162.md)||||
+|165|比较版本号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question165.md)||||
 |167|两数之和 II - 输入有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question167.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question167.md)|
 |169|多数元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question169.md)||||
 |179|最大数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question179.md)||||
