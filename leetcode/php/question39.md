@@ -30,6 +30,40 @@ candidate 中的每个元素都是独一无二的。
 ```
 
 ```
+class Solution {
+
+    /**
+     * @param Integer[] $candidates
+     * @param Integer $target
+     * @return Integer[][]
+     */
+    function combinationSum($candidates, $target) {
+        $trace = [];
+        $result = [];
+        $this->dfs($candidates, $target, 0, $trace, $result);
+        return $result;
+    }
+
+    function dfs($candidates, $target, $start, $trace, &$result) {
+        $sum = array_sum($trace);
+        if ($sum == $target) {
+            $result[] = $trace;
+            return;
+        }
+        if ($sum > $target) {
+            return;
+        }
+
+        for ($i = $start; $i < count($candidates); $i++) {
+            $trace[] = $candidates[$i];
+            $this->dfs($candidates, $target, $i, $trace, $result);
+            array_pop($trace);
+        }
+    }
+}
+```
+
+```
 <?php
 class Solution {
 
