@@ -21,6 +21,59 @@
 ```
 
 ```
+/**
+ * Definition for a binary tree node.
+ * class TreeNode {
+ *     public $val = null;
+ *     public $left = null;
+ *     public $right = null;
+ *     function __construct($val = 0, $left = null, $right = null) {
+ *         $this->val = $val;
+ *         $this->left = $left;
+ *         $this->right = $right;
+ *     }
+ * }
+ */
+class Solution {
+
+    /**
+     * @param TreeNode $root
+     * @param Integer $targetSum
+     * @return Integer[][]
+     */
+    function pathSum($root, $targetSum) {
+        $result = [];
+        $trace = [];
+        $this->dfs($root, $targetSum, $trace, $result);
+        return $result;
+    }
+
+    function dfs($root, $targetSum, &$trace, &$result) {
+        if ($root == null) {
+            return;
+        }
+
+        if ($root->left == null && $root->right == null) {
+            if ($root->val == $targetSum) {
+                $trace[] = $root->val;
+                $result[] = $trace;
+                array_pop($trace);
+                return;
+            }
+        }
+
+        $trace[] = $root->val;
+        $this->dfs($root->left, $targetSum - $root->val, $trace, $result);
+        array_pop($trace);
+
+        $trace[] = $root->val;
+        $this->dfs($root->right, $targetSum - $root->val, $trace, $result);
+        array_pop($trace);
+    }
+}
+```
+
+```
 <?php
   class TreeNode {
       public $val = null;
