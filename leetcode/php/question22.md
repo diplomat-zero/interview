@@ -14,6 +14,45 @@
 ```
 
 ```
+class Solution {
+
+    /**
+     * @param Integer $n
+     * @return String[]
+     */
+    function generateParenthesis($n) {
+        $result = [];
+        $trace = '';
+        $this->dfs($n, $n, $trace, $result);
+        return $result;
+    }
+
+    function dfs($left, $right, &$trace, &$result) {
+        if ($left < 0 || $right < 0) {
+            return;
+        }
+
+        if ($left > $right) {
+            return;
+        }
+
+        if ($left == 0 && $right == 0) {
+            $result[] = $trace;
+            return;
+        }
+
+        $trace .= '(';
+        $this->dfs($left - 1, $right, $trace, $result);
+        $trace = substr($trace, 0, strlen($trace) - 1);
+
+        $trace .= ')';
+        $this->dfs($left, $right - 1, $trace, $result);
+        $trace = substr($trace, 0, strlen($trace) - 1);
+    }
+}
+```
+
+```
 超时 待优化
 <?php
 class Solution {

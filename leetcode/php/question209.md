@@ -25,6 +25,33 @@ class Solution {
      * @return Integer
      */
     function minSubArrayLen($target, $nums) {
+        $left = 0;
+        $right = 0;
+        $max = PHP_INT_MAX;
+        $sum = 0;
+        while ($right < count($nums)) {
+            $sum += $nums[$right];
+            while ($sum >= $target) {
+                $max = min($max, $right - $left + 1);
+                $sum -= $nums[$left];
+                $left++;
+            }
+            $right++;
+        }
+        return $max == PHP_INT_MAX ? 0 : $max;
+    }
+}
+```
+
+```
+class Solution {
+
+    /**
+     * @param Integer $target
+     * @param Integer[] $nums
+     * @return Integer
+     */
+    function minSubArrayLen($target, $nums) {
         $len = count($nums);
         $sum = $left = 0;
         $min = $len + 1;
@@ -40,9 +67,4 @@ class Solution {
         return $min == $len + 1 ? 0 : $min;
     }
 }
-$target = 11;
-$nums = [1,1,1,1,1,1,1,1];
-$so = new Solution();
-$ret = $so->minSubArrayLen($target, $nums);
-print_r($ret);
 ```

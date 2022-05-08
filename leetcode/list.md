@@ -26,6 +26,7 @@
 |26|删除有序数组中的重复项|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question26.md)||||
 |27|移除元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question27.md)||||
 |28|实现strStr()|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question28.md)||||
+|31|下一个排列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question31.md)||||
 |33|搜索旋转排序数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question33.md)||||
 |34|在排序数组中查找元素的第一个和最后一个位置|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question34.md)||||
 |35|搜索插入位置|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question35.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question35.md)|
@@ -53,7 +54,8 @@
 |83|删除排序链表中的重复元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question83.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question83.md)|
 |86|分隔链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question86.md)|
 |88|合并两个有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question88.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question88.md)|
-|90|子集Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question90.md)|
+|90|子集Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question90.md)||||
+|92|反转链表 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question92.md)||||
 |94|二叉树的中序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question94.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question94.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question94.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question94.md)|
 |95|不同的二叉搜索树Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question95.md)|
 |96|不同的二叉搜索树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question96.md)|
@@ -93,9 +95,11 @@
 |143|重排链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question143.md)||||
 |144|二叉树的前序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question144.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question144.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question144.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question144.md)|
 |145|二叉树的后序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question145.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question145.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question145.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question145.md)|
+|148|排序链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question148.md)||||
 |153|寻找旋转排序数组中的最小值|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question153.md)||||
 |154|寻找旋转排序数组中的最小值 II|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question154.md)||||
 |162|寻找峰值|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question162.md)||||
+|165|比较版本号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question165.md)||||
 |167|两数之和 II - 输入有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question167.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question167.md)|
 |169|多数元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question169.md)||||
 |179|最大数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question179.md)||||
