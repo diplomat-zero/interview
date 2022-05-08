@@ -68,6 +68,36 @@ class Solution {
 ```
 
 ```
+class Solution {
+
+    /**
+     * @param String $s
+     * @return String
+     */
+    function longestPalindrome($s) {
+        $max = '';
+        for ($i = 0; $i < strlen($s); $i++) {
+            $str1 = $this->Palindrome($s, $i, $i);
+            $str2 = $this->Palindrome($s, $i, $i + 1);
+            $max_tmp = strlen($str1) > strlen($str2) ? $str1 : $str2;
+            $max = strlen($max) > strlen($max_tmp) ? $max : $max_tmp;
+        }
+
+        return $max;
+    }
+
+    function Palindrome($s, $left, $right) {
+        while ($left >= 0 && $right < strlen($s) && $s[$left] == $s[$right]) {
+            $left--;
+            $right++;
+        }
+
+        return substr($s, $left + 1, ($right - $left - 1));
+    }
+}
+```
+
+```
 根据官方提供思路写的 反而超时了
 <?php
 class Solution {
