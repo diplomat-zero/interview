@@ -124,7 +124,10 @@
 |257|二叉树的所有路径|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question257.md)||||
 |260|只出现一次的数字 III|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question260.md)||||
 |278|第一个错误的版本|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question278.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question278.md)|
+|283|移动零|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question283.md)||||
 |295|数据流的中位数|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question295.md)||||
+|303|区域和检索 - 数组不可变|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question303.md)||||
+|304|二维区域和检索 - 矩阵不可变|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question304.md)||||
 |322|零钱兑换|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question322.md)||||
 |344|反转字符串|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question344.md)|
 |350|两个数组的交集 II|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question350.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question350.md)|
@@ -133,6 +136,7 @@
 |394|字符串解码|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question394.md)||||
 |404|左叶子之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question404.md)||||
 |415|字符串相加|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question415.md)||||
+|429|N叉树的层序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question429.md)||||
 |437|路径总和Ⅲ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question437.md)||||
 |496|下一个更大元素 I|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question496.md)||||
 |501|二叉搜索树中的众数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question501.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question501.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question501.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question501.md)|
