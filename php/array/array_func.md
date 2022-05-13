@@ -13,3 +13,4 @@
 | array_values| 返回数组中所有的值并给其建立数字索引| |
 | array_unique | 移除数组中重复的值 | |
 | array_sum | 对数组中所有值求和 | | 
+| array_intersect | 计算数组的交集 ||
