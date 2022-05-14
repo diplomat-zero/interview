@@ -37,6 +37,36 @@
 
 ```
 class Solution {
+
+    /**
+     * @param Integer[][] $matrix
+     * @return NULL
+     */
+    function rotate(&$matrix) {
+        for ($i = 0; $i < count($matrix); $i++) {
+            for ($j = $i + 1; $j < count($matrix); $j++) {
+                $tmp = $matrix[$i][$j];
+                $matrix[$i][$j] = $matrix[$j][$i];
+                $matrix[$j][$i] = $tmp;
+            }
+        }
+        foreach ($matrix as &$value) {
+            $start = 0;
+            $end = count($value) - 1;
+            while ($start < $end) {
+                $tmp1 = $value[$start];
+                $value[$start] = $value[$end];
+                $value[$end] = $tmp1;
+                $start++;
+                $end--;
+            }
+        }
+    }
+}
+```
+
+```
+class Solution {
     /**
      * @param Integer[][] $matrix
      *
