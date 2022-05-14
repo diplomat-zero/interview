@@ -26,6 +26,42 @@ nums 是一个非递减数组
 ```
 
 ```
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @param Integer $target
+     * @return Integer[]
+     */
+    function searchRange($nums, $target) {
+        $left = 0;
+        $right = count($nums) - 1;
+
+        while ($left <= $right) {
+            $mid = floor(($right - $left) / 2 + $left);
+            if ($nums[$mid] == $target) {
+                $left1 = $mid;
+                $right1 = $mid;
+                while ($left1 >= 0 && $nums[$left1] == $target) {
+                    $left1--;
+                }
+                while ($right1 < count($nums) && $nums[$right1] == $target) {
+                    $right1++;
+                }
+                return [$left1 + 1, $right1 - 1];
+            } else if ($nums[$mid] > $target) {
+                $right = $mid - 1;
+            } else {
+                $left = $mid + 1;
+            }
+        }
+
+        return [-1, -1];
+    }
+}
+```
+
+```
 <?php
 class Solution {
 

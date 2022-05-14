@@ -22,6 +22,39 @@
 ```
 
 ```
+/**
+ * Definition for a singly-linked list.
+ * class ListNode {
+ *     public $val = 0;
+ *     public $next = null;
+ *     function __construct($val = 0, $next = null) {
+ *         $this->val = $val;
+ *         $this->next = $next;
+ *     }
+ * }
+ */
+class Solution {
+
+    /**
+     * @param ListNode $head
+     * @return ListNode
+     */
+    function swapPairs($head) {
+        if ($head == null || $head->next == null) {
+            return $head;
+        }
+        $one = $head;
+        $two = $head->next;
+        $three = $two->next;
+
+        $one->next = $this->swapPairs($three);
+        $two->next = $one;
+        return $two;
+    }
+}
+```
+
+```
 class ListNode {
     public $val = 0;
 

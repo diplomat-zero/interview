@@ -25,6 +25,26 @@ class Solution {
      * @return Boolean
      */
     function canJump($nums) {
+        $max = 0;
+        for ($i = 0; $i < count($nums) - 1; $i++) {
+            $max = max($max, $i + $nums[$i]);
+            if ($max <= $i) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
+```
+
+```
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @return Boolean
+     */
+    function canJump($nums) {
         $len = count($nums);
         $step = 1;
         for ($i = $len - 2; $i >= 0; $i--) {

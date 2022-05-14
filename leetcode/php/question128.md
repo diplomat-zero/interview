@@ -17,6 +17,36 @@
 ```
 
 ```
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @return Integer
+     */
+    function longestConsecutive($nums) {
+        $max = PHP_INT_MIN;
+        for ($i = 0; $i < count($nums); $i++) {
+            $map[$nums[$i]] = $nums[$i];
+        }
+
+        foreach ($map as $key => $value) {
+            $now_key = $key;
+            if (isset($map[$now_key - 1])) {
+                continue;
+            }
+            $start = 1;
+            while (isset($map[$now_key + 1])) {
+                $now_key++;
+                $start++;
+            }
+            $max = max($max, $start);
+        }
+        return $max == PHP_INT_MIN ? 0 : $max;
+    }
+}
+```
+
+```
 <?php
 class Solution {
 
