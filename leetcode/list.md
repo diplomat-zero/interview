@@ -147,8 +147,10 @@
 |523|连续的子数组和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question523.md)||||
 |525|连续数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question525.md)||||
 |543|二叉树的直径|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question543.md)||||
+|556|下一个更大元素 III|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question556.md)||||
 |557|反转字符串中的单词 III|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question557.md)
 |566|重塑矩阵|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question566.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question566.md)|
+|572|另一棵树的子树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question572.md)||||
 |617|合并二叉树|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question617.md)|
 |695|岛屿的最大面积|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question695.md)||||
 |704|二分查找|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question704.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question704.md)|
@@ -158,7 +160,9 @@
 |887|鸡蛋掉落|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question887.md)||||
 |912|排序数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question912.md)||||
 |921|使括号有效的最少添加|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question921.md)||||
+|951|翻转等价二叉树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question951.md)||||
 |958|二叉树的完全性检验|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question958.md)||||
+|971|翻转二叉树以匹配先序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question971.md)||||
 |977|有序数组的平方|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question977.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question977.md)|
 |1022|从根到叶的二进制数之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1022.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1022.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1022.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1022.md)|
 |1020|飞地的数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1020.md)||||

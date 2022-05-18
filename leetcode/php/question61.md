@@ -20,6 +20,50 @@
 ```
 
 ```
+/**
+ * Definition for a singly-linked list.
+ * class ListNode {
+ *     public $val = 0;
+ *     public $next = null;
+ *     function __construct($val = 0, $next = null) {
+ *         $this->val = $val;
+ *         $this->next = $next;
+ *     }
+ * }
+ */
+class Solution {
+
+    /**
+     * @param ListNode $head
+     * @param Integer $k
+     * @return ListNode
+     */
+    function rotateRight($head, $k) {
+        if ($head == null) {
+            return $head;
+        }
+        $head_bak = $head;
+        $len = 1;
+        while ($head_bak->next != null) {
+            $head_bak = $head_bak->next;
+        $len++;
+        }
+        $tail = $head_bak;
+
+        $tail->next = $head;
+        $move = $len - $k % $len;
+        while ($move > 1) {
+            $head = $head->next;
+            $move--;
+        }
+        $ret = $head->next;
+        $head->next = null;
+        return $ret;
+    }
+}
+```
+
+```
 class ListNode {
     public $val = 0;
 
