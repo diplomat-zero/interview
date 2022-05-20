@@ -127,6 +127,7 @@
 |278|第一个错误的版本|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question278.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question278.md)|
 |283|移动零|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question283.md)||||
 |295|数据流的中位数|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question295.md)||||
+|301|删除无效的括号|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question301.md)||||
 |303|区域和检索 - 数组不可变|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question303.md)||||
 |304|二维区域和检索 - 矩阵不可变|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question304.md)||||
 |322|零钱兑换|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question322.md)||||
@@ -172,8 +173,11 @@
 |1020|飞地的数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1020.md)||||
 |1087|花括号展开|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1087.md)||||
 |1143|最长公共子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1143.md)||||
+|1190|反转每对括号间的子串|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1190.md)||||
+|1249|移除无效的括号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1249.md)||||
 |1254|统计封闭岛屿的数目|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1254.md)||||
 |1512|好数对的数目|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1512.md)||||
+|1614|括号的最大嵌套深度|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1614.md)||||
 |1905|统计子岛屿|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1905.md)||||
 |1979|找出数组的最大公约数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1979.md)||||
 |2011|执行操作后的变量值|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question2011.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question2011.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question2011.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question2011.md)|
