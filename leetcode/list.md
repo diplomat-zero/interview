@@ -153,6 +153,7 @@
 |557|反转字符串中的单词 III|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question557.md)
 |566|重塑矩阵|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question566.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question566.md)|
 |572|另一棵树的子树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question572.md)||||
+|606|根据二叉树创建字符串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question606.md)||||
 |617|合并二叉树|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question617.md)|
 |678|有效的括号字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question678.md)||||
 |694|不同岛屿的数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question694.md)||||
@@ -179,12 +180,17 @@
 |1249|移除无效的括号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1249.md)||||
 |1254|统计封闭岛屿的数目|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1254.md)||||
 |1512|好数对的数目|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1512.md)||||
+|1541|平衡括号字符串的最少插入次数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1541.md)||||
 |1614|括号的最大嵌套深度|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1614.md)||||
+|1650|二叉树的最近公共祖先 III|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1650.md)||||
 |1807|替换字符串中的括号内容|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1807.md)||||
 |1905|统计子岛屿|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1905.md)||||
+|1963|使字符串平衡的最小交换次数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1963.md)||||
 |1979|找出数组的最大公约数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1979.md)||||
 |2011|执行操作后的变量值|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question2011.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question2011.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question2011.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question2011.md)|
 |2016|增量元素之间的最大差值|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question2016.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question2016.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question2016.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question2016.md)|
+|2116|判断一个括号字符串是否有效|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question2116.md)||||
+|2232|向表达式添加括号后的最小结果|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question2232.md)||||
 |剑指offer03|数组中重复的数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer3.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer3.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer3.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer3.md)|
 |剑指offer04|二维数组中的查找|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer4.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer4.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer4.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer4.md)|
 |剑指offer05|替换空格|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer5.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer5.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer5.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer5.md)|
@@ -214,6 +220,7 @@
 |剑指offer42|连续子数组的最大和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer42.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer42.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer42.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer42.md)|
 |剑指offer46|把数字翻译成字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer46.md)||||
 |剑指offer48|最长不含重复字符的子字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer48.md)||||
+|剑指offer54|二叉搜索树的第k大节点|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer54.md)||||
 |剑指offer55-1|二叉树的深度|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer55-1.md)|
 |剑指offer55-2|平衡二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer55-2.md)||||
 |剑指offer57|和为s的两个数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer57.md)||||
