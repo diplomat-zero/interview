@@ -171,13 +171,16 @@
 |977|有序数组的平方|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question977.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question977.md)|
 |1022|从根到叶的二进制数之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1022.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1022.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1022.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1022.md)|
 |1020|飞地的数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1020.md)||||
+|1021|删除最外层的括号|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1021.md)||||
 |1087|花括号展开|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1087.md)||||
+|1111|有效括号的嵌套深度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1111.md)||||
 |1143|最长公共子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1143.md)||||
 |1190|反转每对括号间的子串|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1190.md)||||
 |1249|移除无效的括号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1249.md)||||
 |1254|统计封闭岛屿的数目|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1254.md)||||
 |1512|好数对的数目|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1512.md)||||
 |1614|括号的最大嵌套深度|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1614.md)||||
+|1807|替换字符串中的括号内容|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1807.md)||||
 |1905|统计子岛屿|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1905.md)||||
 |1979|找出数组的最大公约数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1979.md)||||
 |2011|执行操作后的变量值|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question2011.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question2011.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question2011.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question2011.md)|
