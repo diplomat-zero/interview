@@ -44,11 +44,13 @@
 |49|字母异位词分组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question49.md)|
 |53|最大子序和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question53.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question53.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question53.md)|
 |54|螺旋矩阵|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question54.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question54.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question54.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question54.md)|
+|59|螺旋矩阵 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question59.md)||||
 |60|排列序列|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question60.md)||||
 |64|最小路径和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question64.md)||||
 |70|爬楼梯|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question70.md)|
 |72|编辑距离|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question72.md)||||
 |73|矩阵置零|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question73.md)||||
+|76|最小覆盖子串|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question76.md)||||
 |77|组合|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question77.md)||||
 |78|子集|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question78.md)||||
 |79|单词搜索|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question79.md)||||
@@ -57,6 +59,7 @@
 |88|合并两个有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question88.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question88.md)|
 |90|子集Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question90.md)||||
 |92|反转链表 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question92.md)||||
+|93|复原 IP 地址|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question93.md)||||
 |94|二叉树的中序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question94.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question94.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question94.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question94.md)|
 |95|不同的二叉搜索树Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question95.md)|
 |96|不同的二叉搜索树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question96.md)|
@@ -91,6 +94,7 @@
 |134|加油站|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question134.md)||||
 |135|分发糖果|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question135.md)||||
 |137|只出现一次的数字II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question137.md)||||
+|139|单词拆分|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question139.md)||||
 |141|环形链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question141.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question141.md)|
 |142|环形链表II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question142.md)||||
 |143|重排链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question143.md)||||
@@ -105,7 +109,8 @@
 |169|多数元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question169.md)||||
 |179|最大数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question179.md)||||
 |189|旋转数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question189.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question189.md)|
-|199|二叉树的右视图|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question199.md)|
+|198|打家劫舍|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question198.md)||||
+|199|二叉树的右视图|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question199.md)||||
 |200|岛屿数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question200.md)|
 |202|快乐数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question202.md)|
 |203|移除链表元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question203.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question203.md)|
@@ -115,7 +120,8 @@
 |221|最大正方形|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question221.md)||||
 |222|完全二叉树的节点个数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question222.md)||||
 |226|翻转二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question226.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question226.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question226.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question226.md)
-|230|二叉搜索树中的第K小的元素|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question230.md)|
+|230|二叉搜索树中的第K小的元素|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question230.md)||||
+|232|用栈实现队列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question232.md)||||
 |235|二叉搜索树的最近公共祖先|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question235.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question235.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question235.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question235.md)|
 |236|二叉树的最近公共祖先|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question236.md)||||
 |237|删除链表中的节点|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question237.md)||||
@@ -134,6 +140,7 @@
 |383|赎金信|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question383.md)|
 |387|字符串中的第一个唯一字符|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question387.md)|
 |394|字符串解码|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question394.md)||||
+|402|移掉 K 位数字|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question402.md)||||
 |404|左叶子之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question404.md)||||
 |415|字符串相加|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question415.md)||||
 |429|N叉树的层序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question429.md)||||
@@ -145,10 +152,12 @@
 |525|连续数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question525.md)||||
 |543|二叉树的直径|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question543.md)||||
 |557|反转字符串中的单词 III|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question557.md)
+|560|和为 K 的子数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question560.md)||||
 |566|重塑矩阵|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question566.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question566.md)|
 |617|合并二叉树|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question617.md)|
 |695|岛屿的最大面积|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question695.md)||||
 |704|二分查找|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question704.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question704.md)|
+|718|最长重复子数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question718.md)||||
 |739|每日温度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question739.md)||||
 |746|使用最小花费爬楼梯|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question746.md)||||
 |876|链表的中间结点|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question876.md)||||
