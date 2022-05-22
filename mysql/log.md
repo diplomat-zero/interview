@@ -1,0 +1,6 @@
+redolog
+
+undolog
+
+binlog
+

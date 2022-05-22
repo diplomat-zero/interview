@@ -115,3 +115,6 @@ TCP释放连接时之所以需要“四次挥手”,是因为FIN释放连接报�
 否则客户端在2MSL内没有再次收到来自服务器端的FIN报文，说明服务器端正常接收了ACK确认报文，客户端可以进入CLOSED阶段，完成“四次挥手”。
 
 所以，客户端要经历时长为2SML的TIME-WAIT阶段；这也是为什么客户端比服务器端晚进入CLOSED阶段的原因
+
+tcp状态：
+https://www.cnblogs.com/qingergege/p/6603488.html
