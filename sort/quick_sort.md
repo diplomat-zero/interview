@@ -1,4 +1,47 @@
 ```
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @return Integer[]
+     */
+    function sortArray($nums) {
+        $this->quickSort($nums, 0, count($nums) - 1);
+        return $nums;
+    }
+
+    function quickSort(&$nums, $start, $end) {
+        if ($start < $end) {
+            $find = $this->find($nums, $start, $end);
+            $this->quickSort($nums, $start, $find - 1);
+            $this->quickSort($nums, $find + 1, $end);
+        }
+    }
+
+    function find(&$arr, $start, $end) {
+        $target = $arr[$start];
+        while ($start < $end) {
+            while ($start < $end && $arr[$end] >= $target) {
+                $end--;
+            }
+            $this->swap($arr, $start, $end);
+            while ($start < $end && $arr[$start] <= $target) {
+                $start++;
+            }
+            $this->swap($arr, $start, $end);
+        }
+        return $start;
+    }
+
+    function swap(&$nums, $a, $b) {
+        $tmp = $nums[$a];
+        $nums[$a] = $nums[$b];
+        $nums[$b] = $tmp;
+    }
+}
+```
+
+```
     function quickSort(&$nums, $start, $end)
     {
         $find = $this->find($nums, $start, $end);

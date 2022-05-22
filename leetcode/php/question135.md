@@ -23,6 +23,45 @@ n == ratings.length
 ```
 
 ```
+思路
+贪心
+```
+
+```
+class Solution {
+
+    /**
+     * @param Integer[] $ratings
+     * @return Integer
+     */
+    function candy($ratings) {
+        $map = [];
+        for ($i = 0; $i < count($ratings); $i++) {
+            $map[] = 1;
+        }
+
+        for ($m = 0; $m < count($ratings) - 1; $m++) {
+            if ($ratings[$m + 1] > $ratings[$m]) {
+                $map[$m + 1] = $map[$m] + 1;
+            }
+        }
+
+        for ($n = count($ratings) - 1; $n >= 0; $n--) {
+            if ($ratings[$n - 1] > $ratings[$n]) {
+                $map[$n - 1] = max($map[$n - 1], $map[$n] + 1);
+            }
+        }
+
+        $res = 0;
+        foreach ($map as $value) {
+            $res += $value;
+        }
+        return $res;
+    }
+}
+```
+
+```
 class Solution {
 
     /**
