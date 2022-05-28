@@ -24,6 +24,48 @@ struct Node {
 ```
 
 ```
+
+```
+
+```
+/**
+ * Definition for a Node.
+ * class Node {
+ *     function __construct($val = 0) {
+ *         $this->val = $val;
+ *         $this->left = null;
+ *         $this->right = null;
+ *         $this->next = null;
+ *     }
+ * }
+ */
+
+class Solution {
+    /**
+     * @param Node $root
+     * @return Node
+     */
+    public function connect($root) {
+        if ($root == null) {
+            return null;
+        }
+        $this->next($root->left, $root->right);
+        return $root;
+    }
+
+    function next($root1, $root2) {
+        if ($root1 == null || $root2 == null) {
+            return;
+        }
+        $root1->next = $root2;
+        $this->next($root1->left, $root1->right);
+        $this->next($root2->left, $root2->right);
+        $this->next($root1->right, $root2->left);
+    }
+}
+```
+
+```
 <?php
   class Node {
       function __construct($val = 0) {

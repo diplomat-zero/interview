@@ -26,6 +26,49 @@
 ```
 
 ```
+
+```
+
+```
+/**
+ * Definition for a binary tree node.
+ * class TreeNode {
+ *     public $val = null;
+ *     public $left = null;
+ *     public $right = null;
+ *     function __construct($val = 0, $left = null, $right = null) {
+ *         $this->val = $val;
+ *         $this->left = $left;
+ *         $this->right = $right;
+ *     }
+ * }
+ */
+class Solution {
+
+    /**
+     * @param TreeNode $root
+     * @return Boolean
+     */
+    function isValidBST($root) {
+        return $this->isValid($root, null, null);
+    }
+
+    function isValid($root, $min, $max) {
+        if ($root == null) {
+            return true;
+        }
+        if ($min != null && $root->val <= $min->val) {
+            return false;
+        }
+        if ($max != null && $root->val >= $max->val) {
+            return false;
+        }
+        return $this->isValid($root->left, $min, $root) && $this->isValid($root->right, $root, $max);;
+    }
+}
+```
+
+```
 <?php
 class TreeNode {
     public $val = null;
