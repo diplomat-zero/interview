@@ -17,6 +17,34 @@ nums 中的所有元素 互不相同
 ```
 
 ```
+
+```
+
+```
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @return Integer[][]
+     */
+    function subsets($nums) {
+        $res = [];
+        $this->dfs($nums, 0, [], $res);
+        return $res;
+    }
+
+    function dfs($nums, $start, $trace, &$res) {
+        $res[] = $trace;
+        for ($i = $start; $i < count($nums); $i++) {
+            $trace[] = $nums[$i];
+            $this->dfs($nums, $i + 1, $trace, $res);
+            array_pop($trace);
+        }
+    }
+}
+```
+
+```
 <?php
 class Solution {
 
