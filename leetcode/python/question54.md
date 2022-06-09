@@ -51,3 +51,44 @@ class Solution:
         
         return ret
 ```
+
+```
+class Solution:
+    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+        left = 0
+        right = len(matrix[0]) - 1
+        top = 0
+        bottom = len(matrix) - 1
+        total = len(matrix) * len(matrix[0])
+        res = []
+        while total >= 1:
+            i = left
+            while i >= left and i <= right and total >= 1:
+                res.append(matrix[top][i])
+                total -= 1
+                i += 1
+            top += 1
+
+            i = top
+            while i >= top and i <= bottom and total >= 1:
+                res.append(matrix[i][right])
+                total -= 1
+                i += 1
+            right -= 1
+
+            i = right
+            while i >= left and i <= right and total >= 1:
+                res.append(matrix[bottom][i])
+                total -= 1
+                i -= 1
+            bottom -= 1
+
+            i = bottom
+            while i >= top and i <= bottom and total >= 1:
+                res.append(matrix[i][left])
+                total -= 1
+                i -= 1
+            left += 1
+        
+        return res
+```

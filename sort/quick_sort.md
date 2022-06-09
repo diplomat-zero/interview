@@ -71,3 +71,27 @@ class Solution {
         return $end;
     }
 ```
+
+```
+class Solution:
+    def sortArray(self, nums: List[int]) -> List[int]:
+        self.quickSort(nums, 0, len(nums) - 1)
+        return nums
+
+    def quickSort(self, nums, start, end):
+        if start < end:
+            find = self.findNum(nums, start, end)
+            self.quickSort(nums, start, find - 1)
+            self.quickSort(nums, find + 1, end)
+
+    def findNum(self, nums, start, end):
+        target = nums[start]
+        while start < end :
+            while start < end and target <= nums[end]:
+                end -= 1
+            nums[start],nums[end] = nums[end], nums[start]
+            while start < end and target >= nums[start]:
+                start += 1
+            nums[start],nums[end] = nums[end], nums[start]
+        return start
+```
