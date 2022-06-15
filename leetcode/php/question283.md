@@ -25,6 +25,35 @@ class Solution {
      * @return NULL
      */
     function moveZeroes(&$nums) {
+        $p = $this->move($nums, 0);
+        for (; $p < count($nums); $p++) {
+            $nums[$p] = 0;
+        }
+    }
+
+    function move(&$nums, $val) {
+        $slow = 0;
+        $fast = 0;
+        while ($fast < count($nums)) {
+            if ($nums[$fast] != $val) {
+                $nums[$slow] = $nums[$fast];
+                $slow++;
+            }
+            $fast++;
+        }
+        return $slow;
+    }
+}
+```
+
+```
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @return NULL
+     */
+    function moveZeroes(&$nums) {
         $len = count($nums);
         $left = 0;
         $right = 0;
