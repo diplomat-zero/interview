@@ -60,7 +60,7 @@
 |86|分隔链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question86.md)|
 |88|合并两个有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question88.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question88.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question88.md)|
 |90|子集Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question90.md)||||
-|92|反转链表 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question92.md)||||
+|92|反转链表 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question92.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question92.md)|
 |93|复原 IP 地址|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question93.md)||||
 |94|二叉树的中序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question94.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question94.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question94.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question94.md)|
 |95|不同的二叉搜索树Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question95.md)|
@@ -97,7 +97,7 @@
 |135|分发糖果|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question135.md)||||
 |137|只出现一次的数字II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question137.md)||||
 |139|单词拆分|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question139.md)||||
-|141|环形链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question141.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question141.md)|
+|141|环形链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question141.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question141.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question141.md)|
 |142|环形链表II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question142.md)||||
 |143|重排链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question143.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question143.md)|
 |144|二叉树的前序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question144.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question144.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question144.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question144.md)|
