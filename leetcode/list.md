@@ -49,6 +49,7 @@
 |59|螺旋矩阵 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question59.md)||||
 |60|排列序列|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question60.md)||||
 |64|最小路径和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question64.md)||||
+|69|x 的平方根|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question69.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question69.md)|
 |70|爬楼梯|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question70.md)|
 |72|编辑距离|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question72.md)||||
 |73|矩阵置零|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question73.md)||||
