@@ -72,7 +72,7 @@
 |102|二叉树的层序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question102.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question102.md)|
 |103|二叉树的锯齿形层序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question103.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question103.md)|
 |104|二叉树的最大深度|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question104.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question104.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question104.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question104.md)|
-|105|从前序和中序遍历构造二叉树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question105.md)|
+|105|从前序和中序遍历构造二叉树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question105.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question105.md)|
 |106|从中序和后序遍历构造二叉树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question106.md)|
 |107|二叉树的层序遍历Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question107.md)|
 |108|将有序数组转换为二叉搜索树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question108.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question108.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question108.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question108.md)|
