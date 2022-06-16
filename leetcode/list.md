@@ -90,7 +90,7 @@
 |124|二叉树中的最大路径和|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question124.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question124.md)|
 |125|验证回文串|简答|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question125.md)||||
 |128|最长连续序列|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question128.md)||||
-|129|求根结点到叶节点数字之和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question129.md)||||
+|129|求根结点到叶节点数字之和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question129.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question129.md)|
 |130|被围绕的区域|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question130.md)||||
 |131|分割回文串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question131.md)||||
 |134|加油站|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question134.md)||||
