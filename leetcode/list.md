@@ -192,7 +192,7 @@
 |912|排序数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question912.md)||||
 |921|使括号有效的最少添加|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question921.md)||||
 |951|翻转等价二叉树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question951.md)||||
-|958|二叉树的完全性检验|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question958.md)||||
+|958|二叉树的完全性检验|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question958.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question958.md)|
 |971|翻转二叉树以匹配先序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question971.md)||||
 |977|有序数组的平方|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question977.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question977.md)|
 |1022|从根到叶的二进制数之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1022.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1022.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1022.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1022.md)|
@@ -200,8 +200,8 @@
 |1021|删除最外层的括号|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1021.md)||||
 |1087|花括号展开|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1087.md)||||
 |1111|有效括号的嵌套深度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1111.md)||||
-|1143|最长公共子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1143.md)||||
-|1190|反转每对括号间的子串|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1190.md)||||
+|1143|最长公共子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1143.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1143.md)|
+|1190|反转每对括号间的子串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1190.md)||||
 |1249|移除无效的括号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1249.md)||||
 |1254|统计封闭岛屿的数目|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1254.md)||||
 |1512|好数对的数目|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1512.md)||||
