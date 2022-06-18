@@ -41,15 +41,15 @@
 |42|接雨水|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question42.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question42.md)|
 |43|字符串相乘|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question43.md)|
 |46|全排列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question46.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question46.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question46.md)|
-|47|全排列Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question47.md)|
-|48|旋转图像|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question48.md)|
+|47|全排列Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question47.md)||||
+|48|旋转图像|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question48.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question48.md)|
 |49|字母异位词分组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question49.md)|
 |53|最大子序和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question53.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question53.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question53.md)|
 |54|螺旋矩阵|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question54.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question54.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question54.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question54.md)|
 |56|合并区间|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question56.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question56.md)|
 |59|螺旋矩阵 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question59.md)||||
 |60|排列序列|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question60.md)||||
-|64|最小路径和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question64.md)||||
+|64|最小路径和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question64.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question64.md)|
 |69|x 的平方根|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question69.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question69.md)|
 |70|爬楼梯|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question70.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question70.md)|
 |72|编辑距离|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question72.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question72.md)|
@@ -180,7 +180,7 @@
 |662|二叉树最大宽度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question662.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question662.md)|
 |678|有效的括号字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question678.md)||||
 |694|不同岛屿的数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question694.md)||||
-|695|岛屿的最大面积|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question695.md)||||
+|695|岛屿的最大面积|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question695.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question695.md)|
 |704|二分查找|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question704.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question704.md)|
 |718|最长重复子数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question718.md)||||
 |739|每日温度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question739.md)||||
