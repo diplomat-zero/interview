@@ -24,6 +24,61 @@ board 和 word 仅由大小写英文字母组成
 ```
 
 ```
+
+```
+
+```
+class Solution {
+
+    /**
+     * @param String[][] $board
+     * @param String $word
+     * @return Boolean
+     */
+    function exist($board, $word) {
+        $res = false;
+        for ($i = 0; $i < count($board); $i++) {
+            for ($j = 0; $j < count($board[0]); $j++) {
+                if ($board[$i][$j] == $word[0]) {
+                    $this->dfs($board, $i, $j, $word, 0, $res);
+                }
+            }
+        }
+        return $res;
+    }
+
+    function dfs(&$board, $i, $j, $word, $m, &$res) {
+        if ($i < 0 || $j < 0 || $i >= count($board) || $j >= count($board[0]) || $board[$i][$j] != $word[$m]) {
+            return;
+        }
+
+        if (strlen($word) - 1 == $m) {
+            $res = true;
+            return;
+        }
+
+        $tmp = $board[$i][$j];
+
+        $board[$i][$j] = '0';
+        $this->dfs($board, $i + 1, $j, $word, $m + 1, $res);
+        $board[$i][$j] = $tmp;
+
+        $board[$i][$j] = '0';
+        $this->dfs($board, $i - 1, $j, $word, $m + 1, $res);
+        $board[$i][$j] = $tmp;
+
+        $board[$i][$j] = '0';
+        $this->dfs($board, $i, $j + 1, $word, $m + 1, $res);
+        $board[$i][$j] = $tmp;
+
+        $board[$i][$j] = '0';
+        $this->dfs($board, $i, $j - 1, $word, $m + 1, $res);
+        $board[$i][$j] = $tmp;
+    }
+}
+```
+
+```
 <?php
 class Solution {
 
