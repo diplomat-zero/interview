@@ -46,6 +46,7 @@
 |49|字母异位词分组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question49.md)|
 |53|最大子序和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question53.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question53.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question53.md)|
 |54|螺旋矩阵|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question54.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question54.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question54.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question54.md)|
+|55|跳跃游戏|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question55.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question55.md)|
 |56|合并区间|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question56.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question56.md)|
 |59|螺旋矩阵 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question59.md)||||
 |60|排列序列|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question60.md)||||
@@ -143,7 +144,7 @@
 |257|二叉树的所有路径|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question257.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question257.md)|
 |260|只出现一次的数字 III|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question260.md)||||
 |278|第一个错误的版本|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question278.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question278.md)|
-|283|移动零|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question283.md)||||
+|283|移动零|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question283.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question283.md)|
 |295|数据流的中位数|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question295.md)||||
 |300|最长递增子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question300.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question300.md)|
 |301|删除无效的括号|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question301.md)||||
