@@ -131,6 +131,7 @@
 |217|存在重复元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question217.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question217.md)|
 |221|最大正方形|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question221.md)||||
 |222|完全二叉树的节点个数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question222.md)||||
+|224|基本计算器|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question224.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question224.md)|
 |226|翻转二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question226.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question226.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question226.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question226.md)|
 |227|基本计算器 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question227.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question227.md)|
 |230|二叉搜索树中的第K小的元素|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question230.md)||||
