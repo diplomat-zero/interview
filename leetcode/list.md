@@ -22,7 +22,7 @@
 |21|合并两个有序链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question21.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question21.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question21.md)|
 |22|括号生成|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question22.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question22.md)|
 |23|合并K个升序链表|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question23.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question23.md)|
-|24|两两交换链表中的节点|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question24.md)||||
+|24|两两交换链表中的节点|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question24.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question24.md)|
 |25|K 个一组翻转链表|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question25.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question25.md)|
 |26|删除有序数组中的重复项|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question26.md)||||
 |27|移除元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question27.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question27.md)|
@@ -58,7 +58,7 @@
 |77|组合|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question77.md)||||
 |78|子集|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question78.md)||||
 |79|单词搜索|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question79.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question79.md)|
-|83|删除排序链表中的重复元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question83.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question83.md)|
+|83|删除排序链表中的重复元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question83.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question83.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question83.md)|
 |86|分隔链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question86.md)|
 |88|合并两个有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question88.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question88.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question88.md)|
 |90|子集Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question90.md)||||
@@ -82,7 +82,7 @@
 |111|二叉树的最小深度|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question111.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question111.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question111.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question111.md)|
 |112|路径总和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question112.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question112.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question112.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question112.md)|
 |113|路径总和Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question113.md)|
-|114|二叉树展开为链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question114.md)|
+|114|二叉树展开为链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question114.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question114.md)|
 |116|填充每个节点的下一个右侧节点指针|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question116.md)|
 |117|填充每个节点的下一个右侧节点指针Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question117.md)|
 |118|杨辉三角|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question118.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question118.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question118.md)|
@@ -106,6 +106,7 @@
 |145|二叉树的后序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question145.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question145.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question145.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question145.md)|
 |146|LRU 缓存|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question146.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question146.md)|
 |148|排序链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question148.md)||||
+|151|颠倒字符串中的单词|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question151.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question151.md)|
 |152|乘积最大子数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question152.md)||||
 |153|寻找旋转排序数组中的最小值|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question153.md)||||
 |154|寻找旋转排序数组中的最小值 II|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question154.md)||||
