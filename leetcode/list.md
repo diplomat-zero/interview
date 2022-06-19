@@ -117,7 +117,7 @@
 |165|比较版本号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question165.md)||||
 |167|两数之和 II - 输入有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question167.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question167.md)|
 |169|多数元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question169.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question169.md)|
-|179|最大数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question179.md)||||
+|179|最大数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question179.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question179.md)|
 |189|旋转数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question189.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question189.md)|
 |198|打家劫舍|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question198.md)||||
 |199|二叉树的右视图|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question199.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question199.md)|
@@ -136,6 +136,7 @@
 |227|基本计算器 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question227.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question227.md)|
 |230|二叉搜索树中的第K小的元素|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question230.md)||||
 |232|用栈实现队列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question232.md)||||
+|234|回文链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question234.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question234.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question234.md)|
 |235|二叉搜索树的最近公共祖先|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question235.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question235.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question235.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question235.md)|
 |236|二叉树的最近公共祖先|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question236.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question236.md)|
 |237|删除链表中的节点|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question237.md)||||
