@@ -57,6 +57,7 @@
 |70|爬楼梯|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question70.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question70.md)|
 |72|编辑距离|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question72.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question72.md)|
 |73|矩阵置零|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question73.md)||||
+|74|搜索二维矩阵|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question74.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question74.md)|
 |76|最小覆盖子串|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question76.md)||||
 |77|组合|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question77.md)||||
 |78|子集|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question78.md)||||
