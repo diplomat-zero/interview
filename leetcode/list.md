@@ -30,13 +30,13 @@
 |31|下一个排列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question31.md)||||
 |32|最长有效括号|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question32.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question32.md)|
 |33|搜索旋转排序数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question33.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question33.md)|
-|34|在排序数组中查找元素的第一个和最后一个位置|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question34.md)||||
+|34|在排序数组中查找元素的第一个和最后一个位置|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question34.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question34.md)|
 |35|搜索插入位置|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question35.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question35.md)|
 |36|有效的数独|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question36.md)||||
 |37|解数独|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question37.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question37.md)|
 |38|外观数列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question38.md)||||
 |39|组合总和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question39.md)||||
-|40|组合总和Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question40.md)||||
+|40|组合总和Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question40.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question40.md)|
 |41|缺失的第一个正数|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question41.md)|
 |42|接雨水|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question42.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question42.md)|
 |43|字符串相乘|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question43.md)|
