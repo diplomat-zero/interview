@@ -48,7 +48,7 @@
 |54|螺旋矩阵|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question54.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question54.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question54.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question54.md)|
 |55|跳跃游戏|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question55.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question55.md)|
 |56|合并区间|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question56.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question56.md)|
-|59|螺旋矩阵 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question59.md)||||
+|59|螺旋矩阵 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question59.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question59.md)|
 |60|排列序列|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question60.md)||||
 |61|旋转链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question61.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question61.md)|
 |62|不同路径|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question62.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question62.md)|
@@ -85,7 +85,7 @@
 |110|平衡二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question110.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question110.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question110.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question110.md)|
 |111|二叉树的最小深度|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question111.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question111.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question111.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question111.md)|
 |112|路径总和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question112.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question112.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question112.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question112.md)|
-|113|路径总和Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question113.md)|
+|113|路径总和Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question113.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question113.md)|
 |114|二叉树展开为链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question114.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question114.md)|
 |116|填充每个节点的下一个右侧节点指针|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question116.md)|
 |117|填充每个节点的下一个右侧节点指针Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question117.md)|
