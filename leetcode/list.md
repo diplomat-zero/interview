@@ -44,6 +44,8 @@
 |47|全排列Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question47.md)||||
 |48|旋转图像|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question48.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question48.md)|
 |49|字母异位词分组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question49.md)|
+|51|N皇后|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question51.md)||||
+|52|N皇后II|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question52.md)||||
 |53|最大子序和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question53.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question53.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question53.md)|
 |54|螺旋矩阵|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question54.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question54.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question54.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question54.md)|
 |55|跳跃游戏|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question55.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question55.md)|
@@ -174,6 +176,7 @@
 |498|对角线遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question498.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question498.md)|
 |501|二叉搜索树中的众数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question501.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question501.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question501.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question501.md)|
 |509|斐波那契数|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question509.md)||
+|518|零钱兑换 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question518.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question518.md)|
 |523|连续的子数组和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question523.md)||||
 |525|连续数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question525.md)||||
 |543|二叉树的直径|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question543.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question543.md)|
