@@ -171,6 +171,7 @@
 |463|岛屿的周长|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question463.md)||||
 |468|验证IP地址|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question468.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question468.md)|
 |496|下一个更大元素 I|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question496.md)||||
+|498|对角线遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question498.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question498.md)|
 |501|二叉搜索树中的众数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question501.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question501.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question501.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question501.md)|
 |509|斐波那契数|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question509.md)||
 |523|连续的子数组和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question523.md)||||
@@ -211,6 +212,7 @@
 |1190|反转每对括号间的子串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1190.md)||||
 |1249|移除无效的括号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1249.md)||||
 |1254|统计封闭岛屿的数目|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1254.md)||||
+|1424|对角线遍历 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1424.md)||||
 |1512|好数对的数目|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1512.md)||||
 |1541|平衡括号字符串的最少插入次数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1541.md)||||
 |1614|括号的最大嵌套深度|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1614.md)||||

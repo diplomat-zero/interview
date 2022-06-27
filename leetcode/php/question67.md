@@ -21,6 +21,50 @@
 ```
 
 ```
+
+```
+
+```
+class Solution {
+
+    /**
+     * @param String $a
+     * @param String $b
+     * @return String
+     */
+    function addBinary($a, $b) {
+        $i = strlen($a) - 1;
+        $j = strlen($b) - 1;
+        $res = '';
+        $jin = 0;
+        while ($i >= 0 || $j >= 0) {
+            $i < 0 && $a[$i] = 0;
+            $j < 0 && $b[$j] = 0;
+            $value = intval($a[$i]) + intval($b[$j]) + $jin;
+            if ($value == 3) {
+                $value = 1;
+                $jin = 1;
+            } else if ($value == 2) {
+                $value = 0;
+                $jin = 1;
+            } else {
+                $jin = 0;
+            }
+            $res = $value . $res;
+            $i--;
+            $j--;
+        }
+
+        if ($jin == 1) {
+            $res = '1' . $res;
+        }
+
+        return $res;
+    }
+}
+```
+
+```
 class Solution {
 
     /**
