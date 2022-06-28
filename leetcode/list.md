@@ -35,7 +35,7 @@
 |36|有效的数独|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question36.md)||||
 |37|解数独|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question37.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question37.md)|
 |38|外观数列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question38.md)||||
-|39|组合总和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question39.md)||||
+|39|组合总和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question39.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question39.md)|
 |40|组合总和Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question40.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question40.md)|
 |41|缺失的第一个正数|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question41.md)|
 |42|接雨水|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question42.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question42.md)|
@@ -64,6 +64,7 @@
 |77|组合|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question77.md)||||
 |78|子集|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question78.md)||||
 |79|单词搜索|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question79.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question79.md)|
+|82|删除排序链表中的重复元素 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question82.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question82.md)|
 |83|删除排序链表中的重复元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question83.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question83.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question83.md)|
 |86|分隔链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question86.md)|
 |88|合并两个有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question88.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question88.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question88.md)|
