@@ -27,7 +27,7 @@
 |26|删除有序数组中的重复项|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question26.md)||||
 |27|移除元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question27.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question27.md)|
 |28|实现strStr()|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question28.md)||||
-|31|下一个排列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question31.md)||||
+|31|下一个排列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question31.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question31.md)|
 |32|最长有效括号|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question32.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question32.md)|
 |33|搜索旋转排序数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question33.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question33.md)|
 |34|在排序数组中查找元素的第一个和最后一个位置|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question34.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question34.md)|
