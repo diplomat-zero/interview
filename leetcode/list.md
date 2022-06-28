@@ -60,6 +60,7 @@
 |72|编辑距离|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question72.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question72.md)|
 |73|矩阵置零|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question73.md)||||
 |74|搜索二维矩阵|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question74.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question74.md)|
+|75|颜色分类|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question75.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question75.md)|
 |76|最小覆盖子串|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question76.md)||||
 |77|组合|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question77.md)||||
 |78|子集|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question78.md)||||
@@ -191,6 +192,7 @@
 |617|合并二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question617.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question617.md)|
 |662|二叉树最大宽度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question662.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question662.md)|
 |678|有效的括号字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question678.md)||||
+|680|验证回文字符串Ⅱ|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question680.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question680.md)|
 |694|不同岛屿的数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question694.md)||||
 |695|岛屿的最大面积|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question695.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question695.md)|
 |704|二分查找|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question704.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question704.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question704.md)|
