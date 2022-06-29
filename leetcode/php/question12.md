@@ -40,6 +40,35 @@ C 可以放在 D (500) 和 M (1000) 的左边，来表示 400 和 900。
 ```
 
 ```
+
+```
+
+```
+class Solution {
+
+    /**
+     * @param Integer $num
+     * @return String
+     */
+    function intToRoman($num) {
+        $roman = ['M','CM','D','CD','C','XC','L','XL','X','IX','V','IV','I'];
+        $nums = [1000,900,500,400,100,90,50,40,10,9,5,4,1];
+
+        $res = '';
+        for ($i = 0; $i < count($nums) && $num > 0; $i++) {
+            $roman_name = $roman[$i];
+            $num_name = $nums[$i];
+            while ($num >= $num_name) {
+                $res .= $roman_name;
+                $num -= $num_name;
+            }
+        }
+        return $res;
+    }
+}
+```
+
+```
 class Solution {
 
     /**
