@@ -107,7 +107,7 @@
 |134|加油站|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question134.md)||||
 |135|分发糖果|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question135.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question135.md)|
 |137|只出现一次的数字II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question137.md)||||
-|139|单词拆分|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question139.md)||||
+|139|单词拆分|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question139.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question139.md)|
 |141|环形链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question141.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question141.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question141.md)|
 |142|环形链表II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question142.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question142.md)|
 |143|重排链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question143.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question143.md)|
@@ -184,7 +184,7 @@
 |523|连续的子数组和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question523.md)||||
 |525|连续数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question525.md)||||
 |543|二叉树的直径|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question543.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question543.md)|
-|556|下一个更大元素 III|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question556.md)||||
+|556|下一个更大元素 III|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question556.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question556.md)|
 |557|反转字符串中的单词 III|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question557.md)
 |560|和为 K 的子数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question560.md)||||
 |566|重塑矩阵|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question566.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question566.md)|
