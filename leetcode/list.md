@@ -61,7 +61,7 @@
 |73|矩阵置零|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question73.md)||||
 |74|搜索二维矩阵|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question74.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question74.md)|
 |75|颜色分类|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question75.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question75.md)|
-|76|最小覆盖子串|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question76.md)||||
+|76|最小覆盖子串|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question76.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question76.md)|
 |77|组合|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question77.md)||||
 |78|子集|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question78.md)||||
 |79|单词搜索|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question79.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question79.md)|
@@ -134,6 +134,7 @@
 |205|同构字符串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question205.md)|
 |206|反转链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question206.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question206.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question206.md)|
 |209|长度最小的子数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question209.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question209.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question209.md)|
+|214|最短回文串|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question214.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question214.md)|
 |215|数组中的第K个最大元素|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question215.md)|||
 |217|存在重复元素|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question217.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question217.md)|
 |221|最大正方形|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question221.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question221.md)|
