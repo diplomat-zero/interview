@@ -119,7 +119,7 @@
 |152|乘积最大子数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question152.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question152.md)|
 |153|寻找旋转排序数组中的最小值|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question153.md)||||
 |154|寻找旋转排序数组中的最小值 II|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question154.md)||||
-|160|相交链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question160.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question160.md)|
+|160|相交链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question160.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question160.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question160.md)|
 |162|寻找峰值|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question162.md)||||
 |165|比较版本号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question165.md)||||
 |167|两数之和 II - 输入有序数组|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question167.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question167.md)|
