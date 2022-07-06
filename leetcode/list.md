@@ -174,6 +174,7 @@
 |437|路径总和Ⅲ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question437.md)||||
 |440|字典序的第K小数字|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question440.md)||||
 |445|两数相加 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question445.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question445.md)|
+|450|删除二叉搜索树中的节点|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question450.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question450.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question450.md)|
 |463|岛屿的周长|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question463.md)||||
 |468|验证IP地址|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question468.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question468.md)|
 |496|下一个更大元素 I|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question496.md)||||
