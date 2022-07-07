@@ -156,7 +156,7 @@
 |240|搜索二维矩阵 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question240.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question240.md)|
 |242|有效的字母异位词|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question242.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question242.md)|
 |257|二叉树的所有路径|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question257.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question257.md)|
-|260|只出现一次的数字 III|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question260.md)||||
+|260|只出现一次的数字 III|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question260.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer260.md)|||
 |278|第一个错误的版本|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question278.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question278.md)|
 |283|移动零|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question283.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question283.md)|
 |295|数据流的中位数|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question295.md)||||
