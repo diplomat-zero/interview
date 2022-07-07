@@ -205,7 +205,7 @@
 |694|不同岛屿的数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question694.md)||||
 |695|岛屿的最大面积|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question695.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question695.md)|
 |704|二分查找|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question704.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question704.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question704.md)|
-|718|最长重复子数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question718.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question718.md)|
+|718|最长重复子数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question718.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question718.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question718.md)|
 |739|每日温度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question739.md)||||
 |746|使用最小花费爬楼梯|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question746.md)||||
 |845|数组中的最长山脉|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question845.md)||||
@@ -271,6 +271,7 @@
 |剑指offer42|连续子数组的最大和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer42.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer42.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer42.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer42.md)|
 |剑指offer46|把数字翻译成字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer46.md)||||
 |剑指offer48|最长不含重复字符的子字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer48.md)||||
+|剑指offer53-1|在排序数组中查找数字 I|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer53-1.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer53-1.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer53-1.md)|
 |剑指offer54|二叉搜索树的第k大节点|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer54.md)||||
 |剑指offer55-1|二叉树的深度|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer55-1.md)|
 |剑指offer55-2|平衡二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer55-2.md)||||
