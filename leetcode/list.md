@@ -4,7 +4,7 @@
 |2|两数相加|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question2.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question2.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question2.md)|
 |3|无重复字符的最长字串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question3.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question3.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question3.md)|
 |4|寻找两个正序数组的中位数|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question4.md)|
-|5|最长回文字串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question5.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question5.md)|
+|5|最长回文字串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question5.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question5.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question5.md)|
 |6|Z字形变换|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question6.md)|
 |7|整数反转|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question7.md)|
 |8|字符串转换整数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question8.md)|
@@ -21,7 +21,7 @@
 |20|有效的括号|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question20.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question20.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question20.md)|
 |21|合并两个有序链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question21.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question21.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question21.md)|
 |22|括号生成|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question22.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question22.md)|
-|23|合并K个升序链表|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question23.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question23.md)|
+|23|合并K个升序链表|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question23.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer23.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question23.md)|
 |24|两两交换链表中的节点|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question24.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question24.md)|
 |25|K 个一组翻转链表|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question25.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question25.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question25.md)|
 |26|删除有序数组中的重复项|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question26.md)||||
@@ -40,7 +40,7 @@
 |41|缺失的第一个正数|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question41.md)|
 |42|接雨水|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question42.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question42.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question42.md)|
 |43|字符串相乘|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question43.md)|
-|46|全排列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question46.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question46.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question46.md)|
+|46|全排列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question46.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question46.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question46.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question46.md)|
 |47|全排列Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question47.md)||||
 |48|旋转图像|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question48.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question48.md)|
 |49|字母异位词分组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question49.md)|
@@ -161,7 +161,7 @@
 |278|第一个错误的版本|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question278.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question278.md)|
 |283|移动零|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question283.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question283.md)|
 |295|数据流的中位数|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question295.md)||||
-|300|最长递增子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question300.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question300.md)|
+|300|最长递增子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question300.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question300.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question300.md)|
 |301|删除无效的括号|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question301.md)||||
 |303|区域和检索 - 数组不可变|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question303.md)||||
 |304|二维区域和检索 - 矩阵不可变|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question304.md)||||
