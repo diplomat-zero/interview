@@ -21,6 +21,55 @@ l1 和 l2 均按 非递减顺序 排列
 ```
 
 ```
+
+```
+
+```
+/**
+ * Definition for a singly-linked list.
+ * class ListNode {
+ *     public $val = 0;
+ *     public $next = null;
+ *     function __construct($val = 0, $next = null) {
+ *         $this->val = $val;
+ *         $this->next = $next;
+ *     }
+ * }
+ */
+class Solution {
+
+    /**
+     * @param ListNode $list1
+     * @param ListNode $list2
+     * @return ListNode
+     */
+    function mergeTwoLists($list1, $list2) {
+        $ret1 = $ret2 = new ListNode();
+        while ($list1 != null && $list2 != null) {
+            if ($list1->val > $list2->val) {
+                $ret2->next = $list2;
+                $list2 = $list2->next;
+            } else {
+                $ret2->next = $list1;
+                $list1 = $list1->next;
+            }
+            $ret2 = $ret2->next;
+        }
+
+        if ($list1 != null) {
+            $ret2->next = $list1;
+        }
+
+        if ($list2 != null) {
+            $ret2->next = $list2;
+        }
+
+        return $ret1->next;
+    }
+}
+```
+
+```
 class ListNode {
     public $val = 0;
 

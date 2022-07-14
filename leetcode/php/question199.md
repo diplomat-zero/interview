@@ -14,6 +14,56 @@
 ```
 
 ```
+
+```
+
+```
+/**
+ * Definition for a binary tree node.
+ * class TreeNode {
+ *     public $val = null;
+ *     public $left = null;
+ *     public $right = null;
+ *     function __construct($val = 0, $left = null, $right = null) {
+ *         $this->val = $val;
+ *         $this->left = $left;
+ *         $this->right = $right;
+ *     }
+ * }
+ */
+class Solution {
+
+    /**
+     * @param TreeNode $root
+     * @return Integer[]
+     */
+    function rightSideView($root) {
+        if ($root == null) {
+            return [];
+        }
+        $stack[] = $root;
+        $result = [];
+        while (!empty($stack)) {
+            $len = count($stack);
+            $tmp = [];
+            for ($i = 0; $i < $len; $i++) {
+                $node = array_shift($stack);
+                $tmp[] = $node->val;
+                if ($node->left) {
+                    $stack[] = $node->left;
+                }
+                if ($node->right) {
+                    $stack[] = $node->right;
+                }
+            }
+            $result[] = end($tmp);
+        }
+        return $result;
+    }
+}
+```
+
+```
 <?php
   class TreeNode {
       public $val = null;
