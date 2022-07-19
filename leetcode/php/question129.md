@@ -49,7 +49,7 @@ class Solution {
      */
     function sumNumbers($root) {
         $result = [];
-        self::dfs($root, [$root], $result);
+        $this->dfs($root, [$root], $result);
         return array_sum($result);
     }
 
@@ -63,19 +63,15 @@ class Solution {
             return;
         }
         if ($root->left != null) {
-            if (!in_array($root->left, $trace)) {
-                $trace[] = $root->left;
-                self::dfs($root->left, $trace, $result);
-                array_pop($trace);
-            }
+            $trace[] = $root->left;
+            $this->dfs($root->left, $trace, $result);
+            array_pop($trace);
         }
         
         if ($root->right != null) {
-            if (!in_array($root->right, $trace)) {
-                array_push($trace, $root->right);
-                self::dfs($root->right, $trace, $result);
-                array_pop($trace);
-            }
+            array_push($trace, $root->right);
+            $this->dfs($root->right, $trace, $result);
+            array_pop($trace);
         }
     }
 }
