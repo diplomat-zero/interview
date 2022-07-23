@@ -18,6 +18,54 @@
 ```
 
 ```
+
+```
+
+```
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public List<List<Integer>> levelOrder(TreeNode root) {
+        List<List<Integer>> result = new LinkedList<>();
+        if (root == null) {
+            return result;
+        }
+        Queue<TreeNode> stack = new LinkedList<>();
+        stack.offer(root);
+        while (!stack.isEmpty()) {
+            int len = stack.size();
+            LinkedList<Integer> tmp = new LinkedList<>();
+            for (int i = 0; i < len; i++) {
+                TreeNode node = stack.poll();
+                tmp.addLast(node.val);
+                if (node.left != null) {
+                    stack.offer(node.left);
+                }
+                if (node.right != null) {
+                    stack.offer(node.right);
+                }
+            }
+            result.add(tmp);
+        }
+        return result;
+    }
+}
+```
+
+```
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
