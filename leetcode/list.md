@@ -55,7 +55,7 @@
 |61|旋转链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question61.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question61.md)|
 |62|不同路径|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question62.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question62.md)|
 |64|最小路径和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question64.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question64.md)|
-|69|x 的平方根|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question69.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question69.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question69.md)|
+|69|x 的平方根|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question69.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question69.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question69.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question69.md)|
 |70|爬楼梯|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question70.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question70.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question70.md)|
 |72|编辑距离|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question72.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question72.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question72.md)|
 |73|矩阵置零|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question73.md)||||
@@ -174,7 +174,7 @@
 |394|字符串解码|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question394.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question394.md)|
 |402|移掉 K 位数字|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question402.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question402.md)|
 |404|左叶子之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question404.md)||||
-|415|字符串相加|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question415.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question415.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question415.md)|
+|415|字符串相加|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question415.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question415.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question415.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question415.md)|
 |429|N叉树的层序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question429.md)||||
 |437|路径总和Ⅲ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question437.md)||||
 |440|字典序的第K小数字|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question440.md)||||
