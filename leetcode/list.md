@@ -9,7 +9,7 @@
 |7|整数反转|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question7.md)|
 |8|字符串转换整数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question8.md)|
 |9|回文数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question9.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question9.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question9.md)|
-|11|盛最多水的容器|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question11.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question11.md)|
+|11|盛最多水的容器|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question11.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question11.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question11.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question11.md)|
 |12|整数转罗马数字|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question12.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question12.md)|
 |13|罗马数字转整数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question13.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question13.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question13.md)|
 |14|最长公共前缀|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question14.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question14.md)|
@@ -107,7 +107,7 @@
 |130|被围绕的区域|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question130.md)||||
 |131|分割回文串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question131.md)||||
 |134|加油站|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question134.md)||||
-|135|分发糖果|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question135.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question135.md)|
+|135|分发糖果|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question135.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question135.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question135.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question135.md)|
 |137|只出现一次的数字II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question137.md)||||
 |138|复制带随机指针的链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question138.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question138.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question138.md)|
 |139|单词拆分|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question139.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question139.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question139.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question139.md)|
@@ -228,7 +228,7 @@
 |1021|删除最外层的括号|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1021.md)||||
 |1087|花括号展开|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1087.md)||||
 |1111|有效括号的嵌套深度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1111.md)||||
-|1143|最长公共子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1143.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1143.md)|
+|1143|最长公共子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1143.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1143.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1143.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1143.md)|
 |1190|反转每对括号间的子串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1190.md)||||
 |1249|移除无效的括号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1249.md)||||
 |1254|统计封闭岛屿的数目|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1254.md)||||

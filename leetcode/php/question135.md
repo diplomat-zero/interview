@@ -40,6 +40,36 @@ class Solution {
             $map[] = 1;
         }
 
+        for ($p = 0; $p < count($ratings) - 1; $p++) {
+            if ($ratings[$p + 1] > $ratings[$p]) {
+                $map[$p + 1] = $map[$p] + 1;
+            }
+        }
+
+        for ($q = count($ratings) - 1; $q > 0; $q--) {
+            if ($ratings[$q - 1] > $ratings[$q]) {
+                $map[$q - 1] = max($map[$q - 1], $map[$q] + 1);
+            }
+        }
+
+        return array_sum($map);
+    }
+}
+```
+
+```
+class Solution {
+
+    /**
+     * @param Integer[] $ratings
+     * @return Integer
+     */
+    function candy($ratings) {
+        $map = [];
+        for ($i = 0; $i < count($ratings); $i++) {
+            $map[] = 1;
+        }
+
         for ($m = 0; $m < count($ratings) - 1; $m++) {
             if ($ratings[$m + 1] > $ratings[$m]) {
                 $map[$m + 1] = $map[$m] + 1;
