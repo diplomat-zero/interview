@@ -14,6 +14,59 @@
 ```
 
 ```
+/**
+ * Definition for a singly-linked list.
+ * class ListNode {
+ *     public $val = 0;
+ *     public $next = null;
+ *     function __construct($val = 0, $next = null) {
+ *         $this->val = $val;
+ *         $this->next = $next;
+ *     }
+ * }
+ */
+/**
+ * Definition for a binary tree node.
+ * class TreeNode {
+ *     public $val = null;
+ *     public $left = null;
+ *     public $right = null;
+ *     function __construct($val = 0, $left = null, $right = null) {
+ *         $this->val = $val;
+ *         $this->left = $left;
+ *         $this->right = $right;
+ *     }
+ * }
+ */
+class Solution {
+
+    /**
+     * @param ListNode $head
+     * @return TreeNode
+     */
+    function sortedListToBST($head) {
+        return $this->buildTree($head, null);
+    }
+
+    function buildTree($head, $tail) {
+        if ($head == $tail) {
+            return;
+        }
+        $fast = $slow = $head;
+        while ($fast != $tail && $fast->next != $tail) {
+            $slow = $slow->next;
+            $fast = $fast->next->next;
+        }
+        $mid = $slow;
+        $root = new TreeNode($mid->val);
+        $root->left = $this->buildTree($head, $mid);
+        $root->right = $this->buildTree($mid->next, $tail);
+        return $root;
+    }
+}
+```
+
+```
 <?php
   class ListNode {
       public $val = 0;
