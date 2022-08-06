@@ -9,7 +9,7 @@
 |nginx| nginx和php-fpm通信的方式 |1.kill -9 和 kill nginx master 还会处理请求么 <br>2.nginx多路复用| |
 | 网络   | 1.三次握手和四次挥手 <br> 2.常见的httpcode <br> 3.负载均衡都有哪些算法 <br> 4.常用的http方法  <br> 5.arp协议 <br> 6.OSI 七层、TCP/IP 四层的关系和区别 | 1.挥手为什么四次 握手为什么三次 <br> 2.http和https <br> 3.http1.0 1.1 1.2的区别 <br> 4.header头和respones里都有什么信息 <br> 5.tcp和udp <br> 6.http无状态是什么意思 <br> 7.time_wait出现在什么时候，为什么要等2MSL <br> 8.tcp的流量控制 <br> 9.正向代理和反向代理 | 1.为什么挥手要等待2MSL <br> 2.完整描述一个http请求 <br> 3.完整的http请求过程中可能遇到什么安全问题，怎么避免 |
 |消息队列|1.常见的消息队列都有哪些|1.消息队列的积压原因和解决方案||
-|kafka|1.topic partition group的概念 <br> 2.kafka是推模式还是拉模式（拉模式）|1.kafka副本是分区的副本<br>2.kafka消费模式<br>3.kafka是稀疏索引 |1.给定个时间戳怎么定位到具体的offset<br>2.kafka性能为什么好(为什么那么快) <br> 3.kafka事务|
+|kafka|1.topic partition group的概念 <br> 2.kafka是推模式还是拉模式（拉模式）|1.kafka副本是分区的副本<br>2.kafka消费模式<br>3.kafka是稀疏索引 <br> 4.leader选取机制|1.给定个时间戳怎么定位到具体的offset<br>2.kafka性能为什么好(为什么那么快) <br> 3.kafka事务|
 | linux | 1.常用的linux命令 <br> 2.僵尸进程和孤儿进程 <br> 3.搜索包含关键字的文件 <br> 4.crontab的使用| 1.linux 查询日志中某段时间出现最多的top10 ip <br> 2.anacron的使用 <br> 3.进程 线程 协程 <br> 4.进程间通信方式 <br>5.select    poll    epoll <br> 6.单进程vs多进程 <br> 7.单线程vs多线程|1.手写服务器抓包命令|
 | es |1.写入原理|1.es为什么是准实时的||
 | 算法相关|1.主流排序算法，其时空间复杂度和稳定性 |||
