@@ -174,7 +174,7 @@
 |350|两个数组的交集 II|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question350.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question350.md)|
 |383|赎金信|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question383.md)|
 |387|字符串中的第一个唯一字符|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question387.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question387.md)|
-|394|字符串解码|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question394.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question394.md)|
+|394|字符串解码|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question394.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question394.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question394.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question394.md)|
 |402|移掉 K 位数字|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question402.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question402.md)|
 |404|左叶子之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question404.md)||||
 |415|字符串相加|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question415.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question415.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question415.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question415.md)|
