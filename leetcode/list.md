@@ -45,6 +45,7 @@
 |47|全排列Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question47.md)||||
 |48|旋转图像|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question48.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question48.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question48.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question48.md)|
 |49|字母异位词分组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question49.md)|
+|50|Pow(x, n)|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question50.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question50.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question50.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question50.md)|
 |51|N皇后|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question51.md)||||
 |52|N皇后II|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question52.md)||||
 |53|最大子序和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question53.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question53.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question53.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question53.md)|
