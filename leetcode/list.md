@@ -224,7 +224,7 @@
 |912|排序数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question912.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question912.md)|||
 |921|使括号有效的最少添加|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question921.md)||||
 |951|翻转等价二叉树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question951.md)||||
-|958|二叉树的完全性检验|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question958.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question958.md)|
+|958|二叉树的完全性检验|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question958.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question958.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question958.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question958.md)|
 |971|翻转二叉树以匹配先序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question971.md)||||
 |977|有序数组的平方|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question977.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question977.md)|
 |999|可以被一步捕获的棋子数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question999.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question999.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question999.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question999.md)|
