@@ -17,6 +17,48 @@ num1 和 num2 均不以零开头，除非是数字 0 本身。
 ```
 
 ```
+
+```
+
+```
+class Solution {
+
+    /**
+     * @param String $num1
+     * @param String $num2
+     * @return String
+     */
+    function multiply($num1, $num2) {
+        if ($num1 == '0' || $num2 == '0') {
+            return '0';
+        }
+        $res = [];
+        for ($i = strlen($num1) - 1; $i >= 0; $i--) {
+            for ($j = strlen($num2) - 1; $j >= 0; $j--) {
+                $mul = $num1[$i] * $num2[$j];
+                $p1 = $i + $j;
+                $p2 = $i + $j + 1;
+                $sum = $mul + $res[$p2]; 
+                $res[$p2] = $sum % 10;
+                $res[$p1] += floor($sum / 10);
+            }
+        }
+
+        $m = 0;
+        while ($m < count($res) && $res[$m] == 0) {
+            $m++;
+        }
+
+        $ret = "";
+        for (;$m < count($res); $m++) {
+            $ret .= (string)$res[$m];
+        }
+        return $ret;
+    }
+}
+```
+
+```
 <?php
 class Solution {
 
