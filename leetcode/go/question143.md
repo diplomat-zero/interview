@@ -42,6 +42,48 @@ L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
  * }
  */
 func reorderList(head *ListNode)  {
+    slow, fast := head, head
+    for fast != nil && fast.Next != nil && fast.Next.Next != nil {
+        slow = slow.Next
+        fast = fast.Next.Next
+    }
+    
+    left := head
+    right := reverse(slow)
+    for left != nil {
+        left_next := left.Next
+        right_next := right.Next
+
+        left.Next = right
+        right.Next = left_next
+
+        left = left_next
+        right = right_next
+    }
+}
+
+func reverse(head *ListNode) *ListNode {
+    var pre *ListNode
+    cur := head
+    for cur != nil {
+        next := cur.Next
+        cur.Next = pre
+        pre = cur
+        cur = next
+    }
+    return pre
+}
+```
+
+```
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
+func reorderList(head *ListNode)  {
     if head == nil || head.Next == nil {
         return
     }
