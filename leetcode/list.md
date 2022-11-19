@@ -201,6 +201,7 @@
 |518|零钱兑换 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question518.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question518.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question518.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question518.md)|
 |523|连续的子数组和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question523.md)||||
 |525|连续数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question525.md)||||
+|530|二叉搜索树的最小绝对差|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question530.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question530.md)|||
 |543|二叉树的直径|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question543.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question543.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question543.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question543.md)|
 |556|下一个更大元素 III|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question556.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question556.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question556.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question556.md)|
 |557|反转字符串中的单词 III|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question557.md)
@@ -223,6 +224,7 @@
 |739|每日温度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question739.md)||||
 |746|使用最小花费爬楼梯|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question746.md)||||
 |752|打开转盘锁|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question752.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question752.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question752.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question752.md)|
+|783|二叉搜索树节点最小距离|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question783.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question783.md)|||
 |845|数组中的最长山脉|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question845.md)||||
 |856|括号的分数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question856.md)||||
 |860|柠檬水找零|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question860.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question860.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question860.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question860.md)|
@@ -250,6 +252,7 @@
 |1464|数组中两元素的最大乘积|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1464.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1464.md)|||
 |1480|一维数组的动态和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1480.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1480.md)|||
 |1512|好数对的数目|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1512.md)||||
+|1518|换水问题|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1518.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1518.md)|||
 |1541|平衡括号字符串的最少插入次数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1541.md)||||
 |1614|括号的最大嵌套深度|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1614.md)||||
 |1650|二叉树的最近公共祖先 III|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1650.md)||||
