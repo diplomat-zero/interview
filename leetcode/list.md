@@ -250,6 +250,7 @@
 |1249|移除无效的括号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1249.md)||||
 |1254|统计封闭岛屿的数目|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1254.md)||||
 |1424|对角线遍历 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1424.md)||||
+|1446|连续字符|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1446.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1446.md)|||
 |1464|数组中两元素的最大乘积|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1464.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1464.md)|||
 |1480|一维数组的动态和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1480.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1480.md)|||
 |1512|好数对的数目|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1512.md)||||
