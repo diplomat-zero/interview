@@ -245,6 +245,7 @@
 |1022|从根到叶的二进制数之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1022.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1022.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1022.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1022.md)|
 |1020|飞地的数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1020.md)||||
 |1021|删除最外层的括号|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1021.md)||||
+|1047|删除字符串中的所有相邻重复项|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1047.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1047.md)|||
 |1087|花括号展开|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1087.md)||||
 |1111|有效括号的嵌套深度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1111.md)||||
 |1143|最长公共子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1143.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1143.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1143.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1143.md)|
