@@ -217,7 +217,7 @@
 |628|三个数的最大乘积|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question628.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question628.md)|||
 |647|回文子串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question647.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question647.md)|
 |662|二叉树最大宽度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question662.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question662.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question662.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question662.md)|
-|678|有效的括号字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question678.md)||||
+|678|有效的括号字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question678.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question678.md)|||
 |680|验证回文字符串Ⅱ|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question680.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question680.md)|
 |692|前K个高频单词|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question692.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question692.md)|||
 |694|不同岛屿的数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question694.md)||||
