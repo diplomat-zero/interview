@@ -296,7 +296,7 @@
 |剑指offer32-2|从上到下打印二叉树 II|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer32-2.md)||
 |剑指offer32-3|从上到下打印二叉树 III|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer32-3.md)||
 |剑指offer33|二叉搜索树的后序遍历序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer33.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer33.md)|
-|剑指offer34|二叉树中和为某一值的路径|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer34.md)||||
+|剑指offer34|二叉树中和为某一值的路径|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer34.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer34.md)|||
 |剑指offer38|字符串的排列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer38.md)||||
 |剑指offer39|数组中出现次数超过一半的数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer39.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer39.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer39.md)||
 |剑指offer40|最小的k个数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer40.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer40.md)|||
