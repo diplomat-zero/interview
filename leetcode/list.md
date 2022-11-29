@@ -200,7 +200,7 @@
 |496|下一个更大元素 I|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question496.md)||||
 |498|对角线遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question498.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question498.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question498.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question498.md)|
 |501|二叉搜索树中的众数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question501.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question501.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question501.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question501.md)|
-|509|斐波那契数|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question509.md)||
+|509|斐波那契数|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question509.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question509.md)||
 |518|零钱兑换 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question518.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question518.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question518.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question518.md)|
 |523|连续的子数组和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question523.md)||||
 |525|连续数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question525.md)||||
