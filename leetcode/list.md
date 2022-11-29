@@ -182,6 +182,7 @@
 |387|字符串中的第一个唯一字符|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question387.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question387.md)|
 |392|判断子序列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question392.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question392.md)|
 |394|字符串解码|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question394.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question394.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question394.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question394.md)|
+|400|第 N 位数字|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question400.md)||
 |402|移掉 K 位数字|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question402.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question402.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question402.md)|
 |404|左叶子之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question404.md)||||
 |409|最长回文串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question409.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question409.md)|
@@ -296,6 +297,7 @@
 |剑指offer33|二叉搜索树的后序遍历序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer33.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer33.md)|
 |剑指offer34|二叉树中和为某一值的路径|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer34.md)||||
 |剑指offer38|字符串的排列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer38.md)||||
+|剑指offer39|数组中出现次数超过一半的数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer39.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer39.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer39.md)||
 |剑指offer40|最小的k个数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer40.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer40.md)|||
 |剑指offer42|连续子数组的最大和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer42.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer42.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer42.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer42.md)|
 |剑指offer46|把数字翻译成字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer46.md)||||
