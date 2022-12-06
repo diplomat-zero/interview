@@ -159,7 +159,7 @@
 |234|回文链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question234.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question234.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question234.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question234.md)|
 |235|二叉搜索树的最近公共祖先|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question235.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question235.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question235.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question235.md)|
 |236|二叉树的最近公共祖先|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question236.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question236.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question236.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question236.md)|
-|237|删除链表中的节点|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question237.md)||||
+|237|删除链表中的节点|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question237.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question237.md)|||
 |239|滑动窗口最大值|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question239.md)||||
 |240|搜索二维矩阵 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question240.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question240.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question240.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question240.md)|
 |242|有效的字母异位词|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question242.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question242.md)|
@@ -253,6 +253,7 @@
 |1232|缀点成线|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1232.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1232.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1232.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1232.md)|
 |1249|移除无效的括号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1249.md)||||
 |1254|统计封闭岛屿的数目|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1254.md)||||
+|1290|二进制链表转整数|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1290.md)|||
 |1424|对角线遍历 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1424.md)||||
 |1446|连续字符|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1446.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1446.md)|||
 |1464|数组中两元素的最大乘积|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1464.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1464.md)|||
@@ -283,7 +284,7 @@
 |剑指offer13|机器人的运动范围|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer13.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer13.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer13.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer13.md)|
 |剑指offer14-1|剪绳子|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer14-1.md)||
 |剑指offer15|二进制中1的个数|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer15.md)||
-|剑指offer18|删除链表的节点|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer18.md)||
+|剑指offer18|删除链表的节点|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer18.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer18.md)||
 |剑指offer21|调整数组顺序使奇数位于偶数前面|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer21.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer21.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer21.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer21.md)|
 |剑指offer22|链表中倒数第k个节点|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer22.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer22.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer22.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer22.md)|
 |剑指offer24|反转链表|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer24.md)||||
