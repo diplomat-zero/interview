@@ -32,6 +32,35 @@ num 仅由若干位数字（0 - 9）组成
 
 ```
 func removeKdigits(num string, k int) string {
+    stack := make([]rune, 0)
+    for _,c := range num {
+        for k > 0 && len(stack) > 0 && stack[len(stack) - 1] > c {
+            k--
+            stack = stack[:len(stack) - 1]
+        }
+
+        if c == '0' && len(stack) == 0 {
+            continue
+        }
+
+        stack = append(stack, c)
+    }
+
+    for k > 0 && len(stack) != 0 {
+        stack = stack[:len(stack) - 1]
+        k--   
+    }
+
+    if len(stack) == 0 {
+        return "0"
+    }
+
+    return string(stack)
+}
+```
+
+```
+func removeKdigits(num string, k int) string {
     stack := make([]string, 0)
     for i := 0; i < len(num); i++ {
         char := string(num[i])
