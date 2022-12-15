@@ -161,6 +161,7 @@
 |235|二叉搜索树的最近公共祖先|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question235.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question235.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question235.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question235.md)|
 |236|二叉树的最近公共祖先|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question236.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question236.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question236.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question236.md)|
 |237|删除链表中的节点|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question237.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question237.md)|||
+|238|除自身以外数组的乘积|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question238.md)|||
 |239|滑动窗口最大值|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question239.md)||||
 |240|搜索二维矩阵 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question240.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question240.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question240.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question240.md)|
 |242|有效的字母异位词|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question242.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question242.md)|
@@ -322,7 +323,7 @@
 |剑指offer63|股票的最大利润|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer63.md)||||
 |剑指offer64|求1+2+…+n|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer64.md)||||
 |剑指offer65|不用加减乘除做加法|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer65.md)||||
-|剑指offer66|构建乘积数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer66.md)||||
+|剑指offer66|构建乘积数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer66.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer66.md)|||
 |剑指offer68-1|二叉搜索树的最近公共祖先|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer68-1.md)|
 |剑指offer68-2|二叉树的最近公共祖先|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer68-2.md)|
 |剑指offer2-2|二进制加法|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer%E2%85%A1-2.md)||
