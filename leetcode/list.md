@@ -247,6 +247,7 @@
 |971|翻转二叉树以匹配先序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question971.md)||||
 |977|有序数组的平方|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question977.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question977.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question977.md)|
 |999|可以被一步捕获的棋子数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question999.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question999.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question999.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question999.md)|
+|1013|将数组分成和相等的三个部分|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1013.md)|||
 |1022|从根到叶的二进制数之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1022.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1022.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1022.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1022.md)|
 |1020|飞地的数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1020.md)||||
 |1021|删除最外层的括号|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1021.md)||||
