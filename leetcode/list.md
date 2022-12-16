@@ -189,6 +189,7 @@
 |404|左叶子之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question404.md)||||
 |409|最长回文串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question409.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question409.md)|
 |415|字符串相加|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question415.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question415.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question415.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question415.md)|
+|416|分割等和子集|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question416.md)|||
 |429|N叉树的层序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question429.md)||||
 |436|寻找右区间|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question436.md)|||
 |437|路径总和Ⅲ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question437.md)||||
