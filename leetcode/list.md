@@ -318,7 +318,7 @@
 |剑指offer55-2|平衡二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer55-2.md)||||
 |剑指offer57|和为s的两个数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer57.md)||||
 |剑指offer57-2|和为s的连续正数序列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer57-2.md)||||
-|剑指offer58-1|翻转单词顺序|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer58-1.md)||||
+|剑指offer58-1|翻转单词顺序|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer58-1.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer58-1.md)|||
 |剑指offer58-2|左旋转字符串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer58-2.md)||||
 |剑指offer61|扑克牌中的顺子|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer61.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer61.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer61.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer61.md)|
 |剑指offer62|圆圈中最后剩下的数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer62.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer62.md)|||
