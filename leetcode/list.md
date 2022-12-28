@@ -103,8 +103,8 @@
 |114|二叉树展开为链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question114.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question114.md)|
 |116|填充每个节点的下一个右侧节点指针|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question116.md)|
 |117|填充每个节点的下一个右侧节点指针Ⅱ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question117.md)|
-|118|杨辉三角|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question118.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question118.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question118.md)|
-|119|杨辉三角 II|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question119.md)|
+|118|杨辉三角|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question118.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question118.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question118.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question118.md)|
+|119|杨辉三角 II|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question119.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question119.md)|||
 |120|三角形最小路径和|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question120.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question120.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question120.md)|
 |121|买卖股票的最佳时机|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question121.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question121.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question121.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question121.md)|
 |122|买卖股票的最佳时机 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question122.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question122.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question122.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question122.md)|
@@ -266,6 +266,7 @@
 |1249|移除无效的括号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1249.md)||||
 |1254|统计封闭岛屿的数目|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1254.md)||||
 |1290|二进制链表转整数|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1290.md)|||
+|1299|将每个元素替换为右侧最大元素|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1299.md)|||
 |1424|对角线遍历 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1424.md)||||
 |1446|连续字符|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1446.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1446.md)|||
 |1464|数组中两元素的最大乘积|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1464.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1464.md)|||
