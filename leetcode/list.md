@@ -267,7 +267,7 @@
 |1190|反转每对括号间的子串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1190.md)||||
 |1232|缀点成线|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1232.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1232.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1232.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1232.md)|
 |1249|移除无效的括号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1249.md)||||
-|1254|统计封闭岛屿的数目|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1254.md)||||
+|1254|统计封闭岛屿的数目|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1254.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1254.md)|||
 |1290|二进制链表转整数|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1290.md)|||
 |1299|将每个元素替换为右侧最大元素|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1299.md)|||
 |1424|对角线遍历 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1424.md)||||
