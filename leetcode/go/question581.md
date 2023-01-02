@@ -49,6 +49,29 @@
 
 ```
 func findUnsortedSubarray(nums []int) int {
+    max := math.MinInt64
+    min := math.MaxInt64
+    left := 0
+    right := -1
+    for i := 0; i < len(nums); i++ {
+        if nums[i] >= max {
+            max = nums[i]
+        } else {
+            right = i
+        }
+
+        if nums[len(nums) - 1 - i] <= min {
+            min = nums[len(nums) - 1 - i]
+        } else {
+            left = len(nums) - 1 - i
+        }
+    }
+    return right - left + 1
+}
+```
+
+```
+func findUnsortedSubarray(nums []int) int {
     left := 0
     right := len(nums) - 1
     for left < right {
