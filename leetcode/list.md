@@ -179,8 +179,8 @@
 |295|数据流的中位数|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question295.md)||||
 |300|最长递增子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question300.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question300.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question300.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question300.md)|
 |301|删除无效的括号|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question301.md)||||
-|303|区域和检索 - 数组不可变|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question303.md)||||
-|304|二维区域和检索 - 矩阵不可变|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question304.md)||||
+|303|区域和检索 - 数组不可变|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question303.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question303.md)|||
+|304|二维区域和检索 - 矩阵不可变|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question304.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question304.md)|||
 |322|零钱兑换|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question322.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question322.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question322.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question322.md)|
 |328|奇偶链表|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question328.md)||||
 |344|反转字符串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question344.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question344.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question344.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question344.md)|
