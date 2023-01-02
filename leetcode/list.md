@@ -322,6 +322,7 @@
 |剑指offer42|连续子数组的最大和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer42.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer42.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer42.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer42.md)|
 |剑指offer46|把数字翻译成字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer46.md)||||
 |剑指offer48|最长不含重复字符的子字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer48.md)||||
+|剑指offer51|数组中的逆序对|困难||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer51.md)|||
 |剑指offer52|两个链表的第一个公共节点|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question160.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer52.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer52.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer52.md)|
 |剑指offer53-1|在排序数组中查找数字 I|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer53-1.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer53-1.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer53-1.md)|
 |剑指offer54|二叉搜索树的第k大节点|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer54.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer54.md)|||
