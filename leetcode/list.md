@@ -203,6 +203,7 @@
 |387|字符串中的第一个唯一字符|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question387.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question387.md)|
 |392|判断子序列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question392.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question392.md)|
 |394|字符串解码|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question394.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question394.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question394.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question394.md)|
+|397|整数替换|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question397.md)|||
 |400|第 N 位数字|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question400.md)||
 |402|移掉 K 位数字|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question402.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question402.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question402.md)|
 |404|左叶子之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question404.md)||||
@@ -254,8 +255,10 @@
 |698|划分为k个相等的子集|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question698.md)|||
 |700|二叉搜索树中的搜索|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question700.md)|||
 |704|二分查找|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question704.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question704.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question704.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question704.md)|
+|717|1 比特与 2 比特字符|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question717.md)|||
 |718|最长重复子数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question718.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question718.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question718.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question718.md)|
 |724|寻找数组的中心下标|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question724.md)|||
+|728|自除数|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question728.md)|||
 |735|行星碰撞|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question735.md)|||
 |739|每日温度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question739.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question739.md)|||
 |746|使用最小花费爬楼梯|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question746.md)||||
@@ -287,6 +290,7 @@
 |1111|有效括号的嵌套深度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1111.md)||||
 |1143|最长公共子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1143.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1143.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1143.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1143.md)|
 |1190|反转每对括号间的子串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1190.md)||||
+|1219|黄金矿工|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1219.md)|||
 |1232|缀点成线|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1232.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1232.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1232.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1232.md)|
 |1249|移除无效的括号|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1249.md)||||
 |1254|统计封闭岛屿的数目|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1254.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1254.md)|||
