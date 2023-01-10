@@ -179,6 +179,7 @@
 |240|搜索二维矩阵 II|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question240.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question240.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question240.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question240.md)|
 |242|有效的字母异位词|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question242.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question242.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question242.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question242.md)|
 |257|二叉树的所有路径|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question257.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question257.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question257.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question257.md)|
+|258|各位相加|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question258.md)|||
 |260|只出现一次的数字 III|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question260.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question260.md)|||
 |263|丑数|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question263.md)|||
 |264|丑数II|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question264.md)|||
@@ -244,6 +245,7 @@
 |611|有效三角形的个数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question611.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question611.md)|
 |617|合并二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question617.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question617.md)|
 |628|三个数的最大乘积|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question628.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question628.md)|||
+|643|子数组最大平均数 I|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question643.md)|||
 |647|回文子串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question647.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question647.md)|
 |662|二叉树最大宽度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question662.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question662.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question662.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question662.md)|
 |670|最大交换|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question670.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question670.md)|||
