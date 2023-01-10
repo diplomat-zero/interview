@@ -200,6 +200,7 @@
 |347|前 K 个高频元素|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question347.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question347.md)|
 |349|两个数组的交集|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question349.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question349.md)|
 |350|两个数组的交集 II|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question350.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question350.md)|
+|367|有效的完全平方数|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question367.md)|||
 |383|赎金信|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question383.md)|
 |387|字符串中的第一个唯一字符|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question387.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question387.md)|
 |392|判断子序列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question392.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question392.md)|
@@ -263,7 +264,7 @@
 |728|自除数|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question728.md)|||
 |735|行星碰撞|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question735.md)|||
 |739|每日温度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question739.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question739.md)|||
-|746|使用最小花费爬楼梯|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question746.md)||||
+|746|使用最小花费爬楼梯|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question746.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question746.md)|||
 |752|打开转盘锁|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question752.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question752.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question752.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question752.md)|
 |783|二叉搜索树节点最小距离|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question783.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question783.md)|||
 |844|比较含退格的字符串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question844.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question844.md)|||
@@ -271,9 +272,11 @@
 |852|山脉数组的峰顶索引|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question852.md)|||
 |856|括号的分数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question856.md)||||
 |860|柠檬水找零|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question860.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question860.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question860.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question860.md)|
+|861|翻转矩阵后的得分|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question861.md)|||
 |876|链表的中间结点|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question876.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question876.md)||||
 |887|鸡蛋掉落|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question887.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question887.md)|||
 |889|根据前序和后序遍历构造二叉树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question889.md)||||
+|897|递增顺序搜索树|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question897.md)|||
 |912|排序数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question912.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question912.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question912.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question912.md)|
 |921|使括号有效的最少添加|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question921.md)||||
 |951|翻转等价二叉树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question951.md)||||
@@ -281,6 +284,7 @@
 |971|翻转二叉树以匹配先序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question971.md)||||
 |977|有序数组的平方|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question977.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question977.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question977.md)|
 |991|坏了的计算器|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question991.md)|||
+|997|找到小镇的法官|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question997.md)|||
 |999|可以被一步捕获的棋子数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question999.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question999.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question999.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question999.md)|
 |1004|最大连续1的个数 III|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1004.md)|||
 |1013|将数组分成和相等的三个部分|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1013.md)|||
@@ -359,7 +363,7 @@
 |剑指offer57|和为s的两个数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer57.md)||||
 |剑指offer57-2|和为s的连续正数序列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer57-2.md)||||
 |剑指offer58-1|翻转单词顺序|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer58-1.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer58-1.md)|||
-|剑指offer58-2|左旋转字符串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer58-2.md)||||
+|剑指offer58-2|左旋转字符串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer58-2.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer58-2.md)|||
 |剑指offer61|扑克牌中的顺子|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer61.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer61.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer61.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer61.md)|
 |剑指offer62|圆圈中最后剩下的数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer62.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer62.md)|||
 |剑指offer63|股票的最大利润|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer63.md)||||
