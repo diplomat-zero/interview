@@ -184,7 +184,7 @@
 |263|丑数|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question263.md)|||
 |264|丑数II|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question264.md)|||
 |268|丢失的数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question268.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question268.md)|||
-|278|第一个错误的版本|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question278.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question278.md)|
+|278|第一个错误的版本|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question278.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question278.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question278.md)||
 |279|完全平方数|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question279.md)|||
 |283|移动零|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question283.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question283.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question283.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question283.md)|
 |287|寻找重复数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question287.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question287.md)|||
@@ -364,6 +364,7 @@
 |剑指offer54|二叉搜索树的第k大节点|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer54.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer54.md)|||
 |剑指offer55-1|二叉树的深度|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer55-1.md)|
 |剑指offer55-2|平衡二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer55-2.md)||||
+|剑指offer56-1|数组中数字出现的次数|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer56-1.md)|||
 |剑指offer57|和为s的两个数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer57.md)||||
 |剑指offer57-2|和为s的连续正数序列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer57-2.md)||||
 |剑指offer58-1|翻转单词顺序|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer58-1.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer58-1.md)|||
