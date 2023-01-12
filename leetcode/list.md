@@ -283,6 +283,7 @@
 |897|递增顺序搜索树|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question897.md)|||
 |912|排序数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question912.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question912.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question912.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question912.md)|
 |921|使括号有效的最少添加|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question921.md)||||
+|931|下降路径最小和|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question931.md)|||
 |951|翻转等价二叉树|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question951.md)||||
 |958|二叉树的完全性检验|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question958.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question958.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question958.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question958.md)|
 |971|翻转二叉树以匹配先序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question971.md)||||
@@ -295,10 +296,12 @@
 |1022|从根到叶的二进制数之和|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1022.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1022.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1022.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1022.md)|
 |1020|飞地的数量|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1020.md)||||
 |1021|删除最外层的括号|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1021.md)||||
+|1026|节点与其祖先之间的最大差值|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1026.md)|||
 |1047|删除字符串中的所有相邻重复项|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1047.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1047.md)|||
 |1087|花括号展开|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1087.md)||||
 |1111|有效括号的嵌套深度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1111.md)||||
 |1143|最长公共子序列|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1143.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1143.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1143.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1143.md)|
+|1154|一年中的第几天|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1154.md)|||
 |1190|反转每对括号间的子串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1190.md)||||
 |1219|黄金矿工|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1219.md)|||
 |1232|缀点成线|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question1232.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question1232.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question1232.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question1232.md)|
@@ -366,14 +369,14 @@
 |剑指offer55-1|二叉树的深度|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer55-1.md)|
 |剑指offer55-2|平衡二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer55-2.md)||||
 |剑指offer56-1|数组中数字出现的次数|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer56-1.md)|||
-|剑指offer57|和为s的两个数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer57.md)||||
+|剑指offer57|和为s的两个数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer57.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer57.md)|||
 |剑指offer57-2|和为s的连续正数序列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer57-2.md)||||
 |剑指offer58-1|翻转单词顺序|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer58-1.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer58-1.md)|||
 |剑指offer58-2|左旋转字符串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer58-2.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer58-2.md)|||
 |剑指offer61|扑克牌中的顺子|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer61.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer61.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer61.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer61.md)|
 |剑指offer62|圆圈中最后剩下的数字|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer62.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer62.md)|||
 |剑指offer63|股票的最大利润|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer63.md)||||
-|剑指offer64|求1+2+…+n|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer64.md)||||
+|剑指offer64|求1+2+…+n|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer64.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer64.md)|||
 |剑指offer65|不用加减乘除做加法|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer65.md)||||
 |剑指offer66|构建乘积数组|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer66.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer66.md)|||
 |剑指offer68-1|二叉搜索树的最近公共祖先|简单||||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer68-1.md)|
