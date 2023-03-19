@@ -205,6 +205,7 @@
 |350|两个数组的交集 II|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question350.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question350.md)|
 |367|有效的完全平方数|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question367.md)|||
 |378|有序矩阵中第 K 小的元素|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question378.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question378.md)|
+|380|O(1)时间插入、删除和获取随机元素|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question380.md)|||
 |383|赎金信|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question383.md)|
 |386|字典序排数|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question386.md)||
 
@@ -254,15 +255,16 @@
 |572|另一棵树的子树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question572.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question572.md)|||
 |581|最短无序连续子数组|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question581.md)|||
 |606|根据二叉树创建字符串|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question606.md)||||
-|611|有效三角形的个数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question611.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question611.md)|
-|617|合并二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question617.md)||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question617.md)|
+|611|有效三角形的个数|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question611.md)||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question617.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question611.md)|
+|617|合并二叉树|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question617.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question617.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question617.md)|
 |628|三个数的最大乘积|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question628.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question628.md)|||
 |637|二叉树的层平均值|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question637.md)|||
 |643|子数组最大平均数 I|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question643.md)|||
-|647|回文子串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question647.md)|||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question647.md)|
+|647|回文子串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question647.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question647.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question647.md)|
 |662|二叉树最大宽度|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question662.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question662.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/question662.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question662.md)|
 |665|非递减数列|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question665.md)|||
 |670|最大交换|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question670.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question670.md)|||
+|674|最长连续递增序列|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question674.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question674.md)|||
 |678|有效的括号字符串|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question678.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question678.md)|||
 |680|验证回文字符串Ⅱ|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question680.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question680.md)||[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/question680.md)|
 |692|前K个高频单词|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question692.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question692.md)|||
@@ -357,6 +359,7 @@
 |剑指offer13|机器人的运动范围|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer13.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer13.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer13.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer13.md)|
 |剑指offer14-1|剪绳子|中等|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer14-1.md)||
 |剑指offer15|二进制中1的个数|简单|||[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer15.md)||
+|剑指offer17| 打印从1到最大的n位数|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer17.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer17.md)|||
 |剑指offer18|删除链表的节点|简单||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer18.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer18.md)||
 |剑指offer21|调整数组顺序使奇数位于偶数前面|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer21.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer21.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer21.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer21.md)|
 |剑指offer22|链表中倒数第k个节点|简单|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/offer22.md)|[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/offer22.md)|[java](https://github.com/diplomat-zero/interview/blob/main/leetcode/java/offer22.md)|[python](https://github.com/diplomat-zero/interview/blob/main/leetcode/python/offer22.md)|
