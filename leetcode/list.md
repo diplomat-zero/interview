@@ -223,7 +223,6 @@
 |416|分割等和子集|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question416.md)|||
 |429|N叉树的层序遍历|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question429.md)||||
 |435|无重叠区间|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question435.md)||
-
 |436|寻找右区间|中等||[go](https://github.com/diplomat-zero/interview/blob/main/leetcode/go/question436.md)|||
 |437|路径总和Ⅲ|中等|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question437.md)||||
 |440|字典序的第K小数字|困难|[php](https://github.com/diplomat-zero/interview/blob/main/leetcode/php/question440.md)||||
