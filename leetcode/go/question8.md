@@ -67,5 +67,31 @@ s 由英文字母（大写和小写）、数字（0-9）、' '、'+'、'-' 和 '
 ```
 
 ```
-
+func myAtoi(s string) int {
+    i := 0
+    abs := 0
+    sign := 1
+    for i < len(s) && s[i] == ' ' {
+        i++
+    }
+    if i < len(s) {
+        if s[i] == '+' {
+            sign = 1
+            i++
+        } else if s[i] == '-' {
+            sign = -1
+            i++
+        }
+    }
+    for i < len(s) && s[i] >= '0' && s[i] <= '9' {
+        abs = abs * 10 + int(s[i] - '0')
+        if abs * sign > math.MaxInt32 {
+            return math.MaxInt32
+        } else if abs * sign < math.MinInt32 {
+            return math.MinInt32
+        } 
+        i++
+    }
+    return sign * abs
+}
 ```
